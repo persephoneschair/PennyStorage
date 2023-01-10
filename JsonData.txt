@@ -43,7 +43,7 @@
       "purgeWin": 0,
       "pyramidWin": 0,
       "redHerringsGold": 3,
-      "redHerringsSilver": 6,
+      "redHerringsSilver": 7,
       "redHerringsBronze": 4,
       "riskyBusinessGold": 0,
       "riskyBusinessSilver": 0,
@@ -57,8 +57,8 @@
       "vennGold": 0,
       "vennSilver": 1,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 50407
+      "currentSeasonPennys": 459,
+      "allTimePennys": 50866
     },
     {
       "playerName": "adster1005",
@@ -297,8 +297,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 1536
+      "currentSeasonPennys": 60,
+      "allTimePennys": 1596
     },
     {
       "playerName": "aloozzz",
@@ -542,7 +542,7 @@
     },
     {
       "playerName": "apeminkie",
-      "authorCredits": 8,
+      "authorCredits": 9,
       "abyssWin": 0,
       "biddingWarGold": 0,
       "biddingWarSilver": 0,
@@ -597,8 +597,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 4390
+      "currentSeasonPennys": 263,
+      "allTimePennys": 4653
     },
     {
       "playerName": "apodonuevo",
@@ -657,8 +657,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 19313
+      "currentSeasonPennys": 64,
+      "allTimePennys": 19377
     },
     {
       "playerName": "appelkaas12",
@@ -1142,7 +1142,7 @@
     },
     {
       "playerName": "arunaromatics",
-      "authorCredits": 38,
+      "authorCredits": 39,
       "abyssWin": 0,
       "biddingWarGold": 1,
       "biddingWarSilver": 0,
@@ -1197,8 +1197,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 38446
+      "currentSeasonPennys": 392,
+      "allTimePennys": 38838
     },
     {
       "playerName": "bigscreenquiz",
@@ -1857,8 +1857,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 24376
+      "currentSeasonPennys": 133,
+      "allTimePennys": 24509
     },
     {
       "playerName": "cleomemnes",
@@ -1964,7 +1964,7 @@
       "pyramidWin": 0,
       "redHerringsGold": 2,
       "redHerringsSilver": 2,
-      "redHerringsBronze": 2,
+      "redHerringsBronze": 3,
       "riskyBusinessGold": 0,
       "riskyBusinessSilver": 0,
       "riskyBusinessBronze": 0,
@@ -1977,8 +1977,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 20735
+      "currentSeasonPennys": 443,
+      "allTimePennys": 21178
     },
     {
       "playerName": "codenamechloe",
@@ -2577,8 +2577,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 12262
+      "currentSeasonPennys": 100,
+      "allTimePennys": 12362
     },
     {
       "playerName": "ddeuceman45",
@@ -3957,8 +3957,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 28405
+      "currentSeasonPennys": 509,
+      "allTimePennys": 28914
     },
     {
       "playerName": "jeeisenz",
@@ -4017,8 +4017,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 9474
+      "currentSeasonPennys": 182,
+      "allTimePennys": 9656
     },
     {
       "playerName": "jerryeris",
@@ -4317,8 +4317,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 33798
+      "currentSeasonPennys": 364,
+      "allTimePennys": 34162
     },
     {
       "playerName": "jpb1982",
@@ -4917,8 +4917,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 45507
+      "currentSeasonPennys": 314,
+      "allTimePennys": 45821
     },
     {
       "playerName": "leelink",
@@ -5097,8 +5097,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 18597
+      "currentSeasonPennys": 99,
+      "allTimePennys": 18696
     },
     {
       "playerName": "lingomaniac88",
@@ -5517,8 +5517,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 8931
+      "currentSeasonPennys": 310,
+      "allTimePennys": 9241
     },
     {
       "playerName": "maxio68",
@@ -6237,8 +6237,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 24112
+      "currentSeasonPennys": 519,
+      "allTimePennys": 24631
     },
     {
       "playerName": "notajumbleofnumbers",
@@ -6340,7 +6340,7 @@
       "moleGold": 1,
       "moleSilver": 1,
       "moleBronze": 0,
-      "purgeWin": 4,
+      "purgeWin": 5,
       "pyramidWin": 3,
       "redHerringsGold": 7,
       "redHerringsSilver": 2,
@@ -6357,8 +6357,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 56637
+      "currentSeasonPennys": 319,
+      "allTimePennys": 56956
     },
     {
       "playerName": "nowhammies10",
@@ -6537,8 +6537,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 51940
+      "currentSeasonPennys": 419,
+      "allTimePennys": 52359
     },
     {
       "playerName": "partyofmii",
@@ -6657,8 +6657,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 3621
+      "currentSeasonPennys": 101,
+      "allTimePennys": 3722
     },
     {
       "playerName": "pillowbeer",
@@ -6822,7 +6822,7 @@
       "moleBronze": 0,
       "purgeWin": 0,
       "pyramidWin": 0,
-      "redHerringsGold": 0,
+      "redHerringsGold": 1,
       "redHerringsSilver": 0,
       "redHerringsBronze": 0,
       "riskyBusinessGold": 0,
@@ -6837,8 +6837,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 33070
+      "currentSeasonPennys": 530,
+      "allTimePennys": 33600
     },
     {
       "playerName": "psyguydave",
@@ -7017,8 +7017,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 20460
+      "currentSeasonPennys": 228,
+      "allTimePennys": 20688
     },
     {
       "playerName": "quetzalcoatl87",
@@ -7437,8 +7437,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 47675
+      "currentSeasonPennys": 826,
+      "allTimePennys": 48501
     },
     {
       "playerName": "scooterdust",
@@ -7797,8 +7797,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 20160
+      "currentSeasonPennys": 392,
+      "allTimePennys": 20552
     },
     {
       "playerName": "silentmarine_",
@@ -7857,8 +7857,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 12779
+      "currentSeasonPennys": 251,
+      "allTimePennys": 13030
     },
     {
       "playerName": "smmidi",
@@ -7977,8 +7977,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 1034
+      "currentSeasonPennys": 31,
+      "allTimePennys": 1065
     },
     {
       "playerName": "starskunk",
@@ -8277,8 +8277,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 746
+      "currentSeasonPennys": 73,
+      "allTimePennys": 819
     },
     {
       "playerName": "t1pster",
@@ -8577,8 +8577,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 54328
+      "currentSeasonPennys": 482,
+      "allTimePennys": 54810
     },
     {
       "playerName": "theoryofgame",
@@ -9297,8 +9297,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 65211
+      "currentSeasonPennys": 426,
+      "allTimePennys": 65637
     },
     {
       "playerName": "zeusless",
@@ -9357,8 +9357,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 40697
+      "currentSeasonPennys": 371,
+      "allTimePennys": 41068
     },
     {
       "playerName": "darkdeyus",
@@ -10137,8 +10137,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 9774
+      "currentSeasonPennys": 313,
+      "allTimePennys": 10087
     },
     {
       "playerName": "jelusoly",
@@ -12477,8 +12477,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 1589
+      "currentSeasonPennys": 2,
+      "allTimePennys": 1591
     },
     {
       "playerName": "mappy1984",
@@ -13677,8 +13677,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 1755
+      "currentSeasonPennys": 353,
+      "allTimePennys": 2108
     },
     {
       "playerName": "wilsonia85",
@@ -14217,8 +14217,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 36826
+      "currentSeasonPennys": 345,
+      "allTimePennys": 37171
     },
     {
       "playerName": "zzrh",
@@ -14877,8 +14877,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 724
+      "currentSeasonPennys": 64,
+      "allTimePennys": 788
     },
     {
       "playerName": "phoxphorus",
@@ -17037,8 +17037,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 16996
+      "currentSeasonPennys": 211,
+      "allTimePennys": 17207
     },
     {
       "playerName": "mdog2910",
@@ -17157,8 +17157,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 857
+      "currentSeasonPennys": 185,
+      "allTimePennys": 1042
     },
     {
       "playerName": "enoraltheoutcast",
@@ -19082,7 +19082,7 @@
     },
     {
       "playerName": "pfired",
-      "authorCredits": 6,
+      "authorCredits": 7,
       "abyssWin": 0,
       "biddingWarGold": 0,
       "biddingWarSilver": 0,
@@ -19137,8 +19137,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 13245
+      "currentSeasonPennys": 479,
+      "allTimePennys": 13724
     },
     {
       "playerName": "enarwhal",
@@ -21057,8 +21057,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 15873
+      "currentSeasonPennys": 264,
+      "allTimePennys": 16137
     },
     {
       "playerName": "zuizgond",
@@ -23457,8 +23457,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 1143
+      "currentSeasonPennys": 10,
+      "allTimePennys": 1153
     },
     {
       "playerName": "stimpsonsangle",
@@ -23517,8 +23517,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 9449
+      "currentSeasonPennys": 598,
+      "allTimePennys": 10047
     },
     {
       "playerName": "sabrestar",
@@ -23877,8 +23877,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 4234
+      "currentSeasonPennys": 173,
+      "allTimePennys": 4407
     },
     {
       "playerName": "joshdoddradio",
@@ -24177,8 +24177,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 8648
+      "currentSeasonPennys": 434,
+      "allTimePennys": 9082
     },
     {
       "playerName": "thenexinator",
@@ -24777,8 +24777,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 5135
+      "currentSeasonPennys": 425,
+      "allTimePennys": 5560
     },
     {
       "playerName": "lot2laugh",
@@ -25737,8 +25737,8 @@
       "vennGold": 0,
       "vennSilver": 0,
       "vennBronze": 0,
-      "currentSeasonPennys": 0,
-      "allTimePennys": 1041
+      "currentSeasonPennys": 345,
+      "allTimePennys": 1386
     },
     {
       "playerName": "laurensleepyhead",
