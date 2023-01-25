@@ -1,1 +1,19 @@
-{"goldMedallists":[],"silverMedallists":[],"bronzeMedallists":[],"lobbyMedallists":[]}
+{
+  "goldMedallists": [
+    "thelupineone",
+    "spokes__",
+    "riffraccoon",
+    "heydevdev",
+    "mistervurtigo",
+    "jackwilfred"
+  ],
+  "silverMedallists": [
+
+  ],
+  "bronzeMedallists": [
+
+  ],
+  "lobbyMedallists": [
+
+  ]
+}
