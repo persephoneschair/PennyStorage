@@ -20,7 +20,8 @@
     "marc_e54",
     "calibratedvision",
     "dragon7398",
-    "marc_e54"
+    "marc_e54",
+"jimspeak"
   ],
   "silverMedallists": [
     "abme208",
