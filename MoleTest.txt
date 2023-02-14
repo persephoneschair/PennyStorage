@@ -1,0 +1,1 @@
+{"goldMedallists":["abme208","innisc","kollokola","nowcutthatout","mattthespratt","bc2014","ben"],"silverMedallists":["apodonuevo","nowcutthatout","pr00gs","marc_e54","dysgwr"],"bronzeMedallists":["brandnewhalo","matt_the_ref","oni91_573","thelupineone","thelupineone"],"lobbyMedallists":[]}
