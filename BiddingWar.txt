@@ -17,7 +17,8 @@
     "arunaromatics",
     "thelupineone",
     "claz0r",
-"cliveoflegend"
+"cliveoflegend",
+"samstersamster"
   ],
   "silverMedallists": [
     "zeusless",
@@ -37,7 +38,8 @@
     "welikeshapes",
     "its_otley_",
     "oni91_573",
-"tysonbane"
+"tysonbane",
+"innisc"
   ],
   "lobbyMedallists": [
     "nowcutthatout",
@@ -52,6 +54,7 @@
     "quizface",
     "marc_e54",
     "elias5891",
-"toadboy123"
+"toadboy123",
+"marc_e54"
   ]
 }

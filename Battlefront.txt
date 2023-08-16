@@ -1,1 +1,1 @@
-{"goldMedallists":["thelupineone","spokes__","riffraccoon","heydevdev","mistervurtigo","jackwilfred","oni91_573","jurs01","abme208","derekagony","welikeshapes","ardenfetz","riffraccoon"],"silverMedallists":[],"bronzeMedallists":[],"lobbyMedallists":[]}
+{"goldMedallists":["thelupineone","spokes__","riffraccoon","heydevdev","mistervurtigo","jackwilfred","oni91_573","jurs01","abme208","derekagony","welikeshapes","ardenfetz","riffraccoon","marc_e54"],"silverMedallists":[],"bronzeMedallists":[],"lobbyMedallists":[]}
