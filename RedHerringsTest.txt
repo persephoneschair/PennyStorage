@@ -60,7 +60,7 @@
     "kollokola",
     "thelupineone",
     "riffraccoon",
-    "pyropygmy"
+    "topper1gaming"
   ],
   "silverMedallists": [
     "abme208",
@@ -124,8 +124,7 @@
     "thelupineone",
     "nowcutthatout",
     "marc_e54",
-    "thelupineone",
-    "samstersamster"
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -190,8 +189,7 @@
     "the_nekkid_grandma",
     "abme208",
     "samstersamster",
-    "arunaromatics",
-    "zeusless"
+    "arunaromatics"
   ],
   "lobbyMedallists": []
 }
