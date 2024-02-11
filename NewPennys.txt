@@ -3013,28 +3013,16 @@
       "AllTimePennys": 25
     },
     {
-      "PlayerName": "NOBODYKNOWSI",
-      "AuthorCredits": 0,
-      "CurrentSeasonPennys": 50,
-      "AllTimePennys": 50
-    },
-    {
       "PlayerName": "nobodyknowsimadog",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 614,
-      "AllTimePennys": 614
+      "CurrentSeasonPennys": 664,
+      "AllTimePennys": 664
     },
     {
       "PlayerName": "connors1009",
       "AuthorCredits": 0,
       "CurrentSeasonPennys": 2164,
       "AllTimePennys": 2164
-    },
-    {
-      "PlayerName": "",
-      "AuthorCredits": 1,
-      "CurrentSeasonPennys": 250,
-      "AllTimePennys": 250
     },
     {
       "PlayerName": "vertexshell",
