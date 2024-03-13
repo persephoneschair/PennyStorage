@@ -3,14 +3,14 @@
     {
       "PlayerName": "abme208",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 15304,
-      "AllTimePennys": 127705
+      "CurrentSeasonPennys": 24966,
+      "AllTimePennys": 137367
     },
     {
       "PlayerName": "adster1005",
       "AuthorCredits": 5,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 2216
+      "CurrentSeasonPennys": 7,
+      "AllTimePennys": 2223
     },
     {
       "PlayerName": "ajaynokia",
@@ -51,20 +51,20 @@
     {
       "PlayerName": "anosep",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1246,
-      "AllTimePennys": 7857
+      "CurrentSeasonPennys": 2171,
+      "AllTimePennys": 8782
     },
     {
       "PlayerName": "apeminkie",
       "AuthorCredits": 13,
-      "CurrentSeasonPennys": 2205,
-      "AllTimePennys": 21210
+      "CurrentSeasonPennys": 3563,
+      "AllTimePennys": 22568
     },
     {
       "PlayerName": "apodonuevo",
       "AuthorCredits": 17,
-      "CurrentSeasonPennys": 5506,
-      "AllTimePennys": 69490
+      "CurrentSeasonPennys": 8059,
+      "AllTimePennys": 72043
     },
     {
       "PlayerName": "appelkaas12",
@@ -75,8 +75,8 @@
     {
       "PlayerName": "ardenfetz",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 11898,
-      "AllTimePennys": 54711
+      "CurrentSeasonPennys": 15587,
+      "AllTimePennys": 58400
     },
     {
       "PlayerName": "asetkeyzet",
@@ -93,8 +93,8 @@
     {
       "PlayerName": "at_bash",
       "AuthorCredits": 7,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 5418
+      "CurrentSeasonPennys": 10,
+      "AllTimePennys": 5428
     },
     {
       "PlayerName": "baronrider",
@@ -116,9 +116,9 @@
     },
     {
       "PlayerName": "arunaromatics",
-      "AuthorCredits": 51,
-      "CurrentSeasonPennys": 14610,
-      "AllTimePennys": 91259
+      "AuthorCredits": 52,
+      "CurrentSeasonPennys": 18468,
+      "AllTimePennys": 95117
     },
     {
       "PlayerName": "bigscreenquiz",
@@ -141,14 +141,14 @@
     {
       "PlayerName": "brandnewhalo",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 27077
+      "CurrentSeasonPennys": 10,
+      "AllTimePennys": 27087
     },
     {
       "PlayerName": "brigbother",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1905,
-      "AllTimePennys": 3475
+      "CurrentSeasonPennys": 8941,
+      "AllTimePennys": 10511
     },
     {
       "PlayerName": "buzzerbob",
@@ -183,8 +183,8 @@
     {
       "PlayerName": "claz0r",
       "AuthorCredits": 1,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 33107
+      "CurrentSeasonPennys": 6,
+      "AllTimePennys": 33113
     },
     {
       "PlayerName": "cleomemnes",
@@ -195,8 +195,8 @@
     {
       "PlayerName": "cliveoflegend",
       "AuthorCredits": 23,
-      "CurrentSeasonPennys": 10346,
-      "AllTimePennys": 76232
+      "CurrentSeasonPennys": 19755,
+      "AllTimePennys": 85641
     },
     {
       "PlayerName": "codenamechloe",
@@ -243,8 +243,8 @@
     {
       "PlayerName": "davidjbodycombe",
       "AuthorCredits": 28,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 7413
+      "CurrentSeasonPennys": 177,
+      "AllTimePennys": 7590
     },
     {
       "PlayerName": "daysofinspiration1128",
@@ -255,8 +255,8 @@
     {
       "PlayerName": "digitaldav1d",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 13894
+      "CurrentSeasonPennys": 193,
+      "AllTimePennys": 14087
     },
     {
       "PlayerName": "ddeuceman45",
@@ -285,8 +285,8 @@
     {
       "PlayerName": "dogfish44",
       "AuthorCredits": 23,
-      "CurrentSeasonPennys": 500,
-      "AllTimePennys": 29387
+      "CurrentSeasonPennys": 550,
+      "AllTimePennys": 29437
     },
     {
       "PlayerName": "dooplissforce",
@@ -309,8 +309,8 @@
     {
       "PlayerName": "energya",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 100,
-      "AllTimePennys": 6504
+      "CurrentSeasonPennys": 107,
+      "AllTimePennys": 6511
     },
     {
       "PlayerName": "faronheights",
@@ -375,14 +375,14 @@
     {
       "PlayerName": "innisc",
       "AuthorCredits": 11,
-      "CurrentSeasonPennys": 7203,
-      "AllTimePennys": 85343
+      "CurrentSeasonPennys": 12521,
+      "AllTimePennys": 90661
     },
     {
       "PlayerName": "its_otley_",
       "AuthorCredits": 28,
-      "CurrentSeasonPennys": 3499,
-      "AllTimePennys": 50933
+      "CurrentSeasonPennys": 6159,
+      "AllTimePennys": 53593
     },
     {
       "PlayerName": "itzsportsy",
@@ -393,14 +393,14 @@
     {
       "PlayerName": "jackwilfred",
       "AuthorCredits": 3,
-      "CurrentSeasonPennys": 674,
-      "AllTimePennys": 40888
+      "CurrentSeasonPennys": 1120,
+      "AllTimePennys": 41334
     },
     {
       "PlayerName": "jeeisenz",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1956,
-      "AllTimePennys": 24089
+      "CurrentSeasonPennys": 2565,
+      "AllTimePennys": 24698
     },
     {
       "PlayerName": "jerryeris",
@@ -429,8 +429,8 @@
     {
       "PlayerName": "pljogging",
       "AuthorCredits": 22,
-      "CurrentSeasonPennys": 6395,
-      "AllTimePennys": 63794
+      "CurrentSeasonPennys": 8638,
+      "AllTimePennys": 66037
     },
     {
       "PlayerName": "jpb1982",
@@ -447,20 +447,20 @@
     {
       "PlayerName": "joehasnotalent",
       "AuthorCredits": 2,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 6179
+      "CurrentSeasonPennys": 51,
+      "AllTimePennys": 6230
     },
     {
       "PlayerName": "jurs01",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 4692,
-      "AllTimePennys": 37547
+      "CurrentSeasonPennys": 6520,
+      "AllTimePennys": 39375
     },
     {
       "PlayerName": "jwyt14",
       "AuthorCredits": 22,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 7064
+      "CurrentSeasonPennys": 28,
+      "AllTimePennys": 7092
     },
     {
       "PlayerName": "kasves1",
@@ -471,14 +471,14 @@
     {
       "PlayerName": "keglercoach",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 2892,
-      "AllTimePennys": 29341
+      "CurrentSeasonPennys": 5966,
+      "AllTimePennys": 32415
     },
     {
       "PlayerName": "keshihead",
       "AuthorCredits": 4,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 4085
+      "CurrentSeasonPennys": 11,
+      "AllTimePennys": 4096
     },
     {
       "PlayerName": "kittster2003",
@@ -489,8 +489,8 @@
     {
       "PlayerName": "kollokola",
       "AuthorCredits": 27,
-      "CurrentSeasonPennys": 4914,
-      "AllTimePennys": 77043
+      "CurrentSeasonPennys": 6694,
+      "AllTimePennys": 78823
     },
     {
       "PlayerName": "leelink",
@@ -507,20 +507,20 @@
     {
       "PlayerName": "lewist1",
       "AuthorCredits": 17,
-      "CurrentSeasonPennys": 5693,
-      "AllTimePennys": 41377
+      "CurrentSeasonPennys": 8067,
+      "AllTimePennys": 43751
     },
     {
       "PlayerName": "lingomaniac88",
-      "AuthorCredits": 16,
-      "CurrentSeasonPennys": 1621,
-      "AllTimePennys": 14552
+      "AuthorCredits": 18,
+      "CurrentSeasonPennys": 2488,
+      "AllTimePennys": 15419
     },
     {
       "PlayerName": "listwits",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 741,
-      "AllTimePennys": 8018
+      "CurrentSeasonPennys": 2202,
+      "AllTimePennys": 9479
     },
     {
       "PlayerName": "m3times",
@@ -549,8 +549,8 @@
     {
       "PlayerName": "matt_the_ref",
       "AuthorCredits": 2,
-      "CurrentSeasonPennys": 743,
-      "AllTimePennys": 26854
+      "CurrentSeasonPennys": 756,
+      "AllTimePennys": 26867
     },
     {
       "PlayerName": "maxio68",
@@ -561,8 +561,8 @@
     {
       "PlayerName": "mclemson",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 691
+      "CurrentSeasonPennys": 14,
+      "AllTimePennys": 705
     },
     {
       "PlayerName": "meempg",
@@ -603,8 +603,8 @@
     {
       "PlayerName": "mrquizworthing",
       "AuthorCredits": 2,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 665
+      "CurrentSeasonPennys": 106,
+      "AllTimePennys": 771
     },
     {
       "PlayerName": "mythers45",
@@ -621,8 +621,8 @@
     {
       "PlayerName": "natterikh",
       "AuthorCredits": 11,
-      "CurrentSeasonPennys": 4144,
-      "AllTimePennys": 51354
+      "CurrentSeasonPennys": 6708,
+      "AllTimePennys": 53918
     },
     {
       "PlayerName": "notajumbleofnumbers",
@@ -632,9 +632,9 @@
     },
     {
       "PlayerName": "nowcutthatout",
-      "AuthorCredits": 34,
-      "CurrentSeasonPennys": 11829,
-      "AllTimePennys": 122996
+      "AuthorCredits": 35,
+      "CurrentSeasonPennys": 17200,
+      "AllTimePennys": 128367
     },
     {
       "PlayerName": "nowhammies10",
@@ -645,14 +645,14 @@
     {
       "PlayerName": "ohay12",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 1426
+      "CurrentSeasonPennys": 444,
+      "AllTimePennys": 1870
     },
     {
       "PlayerName": "oni91_573",
-      "AuthorCredits": 72,
-      "CurrentSeasonPennys": 5490,
-      "AllTimePennys": 89019
+      "AuthorCredits": 73,
+      "CurrentSeasonPennys": 5662,
+      "AllTimePennys": 89191
     },
     {
       "PlayerName": "partyofmii",
@@ -680,9 +680,9 @@
     },
     {
       "PlayerName": "pr00gs",
-      "AuthorCredits": 19,
-      "CurrentSeasonPennys": 9892,
-      "AllTimePennys": 74604
+      "AuthorCredits": 20,
+      "CurrentSeasonPennys": 15921,
+      "AllTimePennys": 80633
     },
     {
       "PlayerName": "psyguydave",
@@ -699,8 +699,8 @@
     {
       "PlayerName": "puzzledan",
       "AuthorCredits": 1,
-      "CurrentSeasonPennys": 4224,
-      "AllTimePennys": 51875
+      "CurrentSeasonPennys": 5654,
+      "AllTimePennys": 53305
     },
     {
       "PlayerName": "quetzalcoatl87",
@@ -722,9 +722,9 @@
     },
     {
       "PlayerName": "royal_flush",
-      "AuthorCredits": 70,
-      "CurrentSeasonPennys": 240,
-      "AllTimePennys": 7550
+      "AuthorCredits": 71,
+      "CurrentSeasonPennys": 505,
+      "AllTimePennys": 7815
     },
     {
       "PlayerName": "ryancdn",
@@ -741,8 +741,8 @@
     {
       "PlayerName": "samstersamster",
       "AuthorCredits": 44,
-      "CurrentSeasonPennys": 11551,
-      "AllTimePennys": 102366
+      "CurrentSeasonPennys": 17911,
+      "AllTimePennys": 108726
     },
     {
       "PlayerName": "scooterdust",
@@ -753,8 +753,8 @@
     {
       "PlayerName": "scorecount",
       "AuthorCredits": 2,
-      "CurrentSeasonPennys": 394,
-      "AllTimePennys": 8187
+      "CurrentSeasonPennys": 397,
+      "AllTimePennys": 8190
     },
     {
       "PlayerName": "sdrawkcassab",
@@ -771,20 +771,20 @@
     {
       "PlayerName": "setra4271",
       "AuthorCredits": 2,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 7048
+      "CurrentSeasonPennys": 11,
+      "AllTimePennys": 7059
     },
     {
       "PlayerName": "shadowmanepx41",
       "AuthorCredits": 21,
-      "CurrentSeasonPennys": 1871,
-      "AllTimePennys": 44579
+      "CurrentSeasonPennys": 2266,
+      "AllTimePennys": 44974
     },
     {
       "PlayerName": "silentmarine_",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 3134,
-      "AllTimePennys": 35929
+      "CurrentSeasonPennys": 5659,
+      "AllTimePennys": 38454
     },
     {
       "PlayerName": "smmidi",
@@ -849,14 +849,14 @@
     {
       "PlayerName": "the_nekkid_grandma",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 2212,
-      "AllTimePennys": 13256
+      "CurrentSeasonPennys": 3480,
+      "AllTimePennys": 14524
     },
     {
       "PlayerName": "thelupineone",
-      "AuthorCredits": 48,
-      "CurrentSeasonPennys": 13469,
-      "AllTimePennys": 113058
+      "AuthorCredits": 49,
+      "CurrentSeasonPennys": 20455,
+      "AllTimePennys": 120044
     },
     {
       "PlayerName": "theoryofgame",
@@ -885,8 +885,8 @@
     {
       "PlayerName": "topper1gaming",
       "AuthorCredits": 15,
-      "CurrentSeasonPennys": 8179,
-      "AllTimePennys": 88548
+      "CurrentSeasonPennys": 11177,
+      "AllTimePennys": 91546
     },
     {
       "PlayerName": "toshidaru",
@@ -921,14 +921,14 @@
     {
       "PlayerName": "welikeshapes",
       "AuthorCredits": 25,
-      "CurrentSeasonPennys": 15481,
-      "AllTimePennys": 153268
+      "CurrentSeasonPennys": 26241,
+      "AllTimePennys": 164028
     },
     {
       "PlayerName": "zeusless",
-      "AuthorCredits": 41,
-      "CurrentSeasonPennys": 11866,
-      "AllTimePennys": 92286
+      "AuthorCredits": 42,
+      "CurrentSeasonPennys": 16533,
+      "AllTimePennys": 96953
     },
     {
       "PlayerName": "darkdeyus",
@@ -945,8 +945,8 @@
     {
       "PlayerName": "randomzombie78",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1383,
-      "AllTimePennys": 1607
+      "CurrentSeasonPennys": 1896,
+      "AllTimePennys": 2120
     },
     {
       "PlayerName": "npldart",
@@ -992,9 +992,9 @@
     },
     {
       "PlayerName": "quizzle83",
-      "AuthorCredits": 22,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 23488
+      "AuthorCredits": 23,
+      "CurrentSeasonPennys": 100,
+      "AllTimePennys": 23588
     },
     {
       "PlayerName": "dannyb0i164",
@@ -1004,9 +1004,9 @@
     },
     {
       "PlayerName": "ramseyfox",
-      "AuthorCredits": 14,
-      "CurrentSeasonPennys": 2825,
-      "AllTimePennys": 21532
+      "AuthorCredits": 15,
+      "CurrentSeasonPennys": 3924,
+      "AllTimePennys": 22631
     },
     {
       "PlayerName": "jelusoly",
@@ -1058,9 +1058,9 @@
     },
     {
       "PlayerName": "riffraccoon",
-      "AuthorCredits": 13,
-      "CurrentSeasonPennys": 5613,
-      "AllTimePennys": 54145
+      "AuthorCredits": 14,
+      "CurrentSeasonPennys": 10772,
+      "AllTimePennys": 59304
     },
     {
       "PlayerName": "techfreakgaming",
@@ -1161,8 +1161,8 @@
     {
       "PlayerName": "huds601",
       "AuthorCredits": 2,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 371
+      "CurrentSeasonPennys": 82,
+      "AllTimePennys": 453
     },
     {
       "PlayerName": "teeejj",
@@ -1215,8 +1215,8 @@
     {
       "PlayerName": "pyropygmy",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 9230,
-      "AllTimePennys": 59881
+      "CurrentSeasonPennys": 13267,
+      "AllTimePennys": 63918
     },
     {
       "PlayerName": "yoshi8330",
@@ -1263,8 +1263,8 @@
     {
       "PlayerName": "tadaru",
       "AuthorCredits": 3,
-      "CurrentSeasonPennys": 2147,
-      "AllTimePennys": 41745
+      "CurrentSeasonPennys": 4842,
+      "AllTimePennys": 44440
     },
     {
       "PlayerName": "farfouli",
@@ -1281,8 +1281,8 @@
     {
       "PlayerName": "derekagony",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 19150
+      "CurrentSeasonPennys": 178,
+      "AllTimePennys": 19328
     },
     {
       "PlayerName": "rhyswynne",
@@ -1413,8 +1413,8 @@
     {
       "PlayerName": "marc_e54",
       "AuthorCredits": 6,
-      "CurrentSeasonPennys": 13970,
-      "AllTimePennys": 102002
+      "CurrentSeasonPennys": 22402,
+      "AllTimePennys": 110434
     },
     {
       "PlayerName": "zzrh",
@@ -1695,8 +1695,8 @@
     {
       "PlayerName": "bc2014",
       "AuthorCredits": 10,
-      "CurrentSeasonPennys": 8678,
-      "AllTimePennys": 61994
+      "CurrentSeasonPennys": 14506,
+      "AllTimePennys": 67822
     },
     {
       "PlayerName": "mdog2910",
@@ -1797,8 +1797,8 @@
     {
       "PlayerName": "davidstrathdee",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 410,
-      "AllTimePennys": 19994
+      "CurrentSeasonPennys": 1260,
+      "AllTimePennys": 20844
     },
     {
       "PlayerName": "greilios",
@@ -2091,14 +2091,14 @@
     {
       "PlayerName": "jimmykato",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 1327
+      "CurrentSeasonPennys": 1350,
+      "AllTimePennys": 2677
     },
     {
       "PlayerName": "fluidfernando",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 10674,
-      "AllTimePennys": 73376
+      "CurrentSeasonPennys": 16511,
+      "AllTimePennys": 79213
     },
     {
       "PlayerName": "zuizgond",
@@ -2343,8 +2343,8 @@
     {
       "PlayerName": "stimpsonsangle",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 8837,
-      "AllTimePennys": 58112
+      "CurrentSeasonPennys": 12267,
+      "AllTimePennys": 61542
     },
     {
       "PlayerName": "sabrestar",
@@ -2408,9 +2408,9 @@
     },
     {
       "PlayerName": "mistervurtigo",
-      "AuthorCredits": 3,
-      "CurrentSeasonPennys": 2568,
-      "AllTimePennys": 51966
+      "AuthorCredits": 4,
+      "CurrentSeasonPennys": 5085,
+      "AllTimePennys": 54483
     },
     {
       "PlayerName": "thenexinator",
@@ -2427,14 +2427,14 @@
     {
       "PlayerName": "servo1991",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 744,
-      "AllTimePennys": 1339
+      "CurrentSeasonPennys": 1232,
+      "AllTimePennys": 1827
     },
     {
       "PlayerName": "n0ta_cat",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1696,
-      "AllTimePennys": 13744
+      "CurrentSeasonPennys": 2721,
+      "AllTimePennys": 14769
     },
     {
       "PlayerName": "shadowolf2971",
@@ -2565,8 +2565,8 @@
     {
       "PlayerName": "camikaze38",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 4304,
-      "AllTimePennys": 14703
+      "CurrentSeasonPennys": 5214,
+      "AllTimePennys": 15613
     },
     {
       "PlayerName": "laurensleepyhead",
@@ -2631,8 +2631,8 @@
     {
       "PlayerName": "lottiebus",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 7809,
-      "AllTimePennys": 29530
+      "CurrentSeasonPennys": 9407,
+      "AllTimePennys": 31128
     },
     {
       "PlayerName": "trashaplays",
@@ -2643,8 +2643,8 @@
     {
       "PlayerName": "stilghar_tkenn",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 9868,
-      "AllTimePennys": 40595
+      "CurrentSeasonPennys": 11932,
+      "AllTimePennys": 42659
     },
     {
       "PlayerName": "analog_amber",
@@ -2661,14 +2661,14 @@
     {
       "PlayerName": "sooty_cat",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 491
+      "CurrentSeasonPennys": 1883,
+      "AllTimePennys": 2374
     },
     {
       "PlayerName": "pickledrick82",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 1458
+      "CurrentSeasonPennys": 7,
+      "AllTimePennys": 1465
     },
     {
       "PlayerName": "max_e_million",
@@ -2685,8 +2685,8 @@
     {
       "PlayerName": "thefurbster",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 669,
-      "AllTimePennys": 1674
+      "CurrentSeasonPennys": 784,
+      "AllTimePennys": 1789
     },
     {
       "PlayerName": "opsimaths",
@@ -2823,8 +2823,8 @@
     {
       "PlayerName": "colin_so",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1661,
-      "AllTimePennys": 9809
+      "CurrentSeasonPennys": 7073,
+      "AllTimePennys": 15221
     },
     {
       "PlayerName": "icetim8",
@@ -2907,8 +2907,8 @@
     {
       "PlayerName": "omdolton84",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 3770,
-      "AllTimePennys": 9272
+      "CurrentSeasonPennys": 8498,
+      "AllTimePennys": 14000
     },
     {
       "PlayerName": "demoivre334",
@@ -2919,8 +2919,8 @@
     {
       "PlayerName": "silverelectron",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1674,
-      "AllTimePennys": 10559
+      "CurrentSeasonPennys": 3510,
+      "AllTimePennys": 12395
     },
     {
       "PlayerName": "monster_m4n",
@@ -2961,14 +2961,14 @@
     {
       "PlayerName": "flyb0y1",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1550,
-      "AllTimePennys": 6578
+      "CurrentSeasonPennys": 4654,
+      "AllTimePennys": 9682
     },
     {
       "PlayerName": "fluffybunesq",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 10438,
-      "AllTimePennys": 17526
+      "CurrentSeasonPennys": 12852,
+      "AllTimePennys": 19940
     },
     {
       "PlayerName": "theshirou97",
@@ -2985,8 +2985,8 @@
     {
       "PlayerName": "20dan03",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 2550
+      "CurrentSeasonPennys": 1720,
+      "AllTimePennys": 4270
     },
     {
       "PlayerName": "telefuchs",
@@ -3003,8 +3003,8 @@
     {
       "PlayerName": "battyman2012",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 2858,
-      "AllTimePennys": 3358
+      "CurrentSeasonPennys": 4979,
+      "AllTimePennys": 5479
     },
     {
       "PlayerName": "swlfted",
@@ -3021,14 +3021,14 @@
     {
       "PlayerName": "connors1009",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 2164,
-      "AllTimePennys": 2164
+      "CurrentSeasonPennys": 2631,
+      "AllTimePennys": 2631
     },
     {
       "PlayerName": "vertexshell",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 453,
-      "AllTimePennys": 453
+      "CurrentSeasonPennys": 553,
+      "AllTimePennys": 553
     },
     {
       "PlayerName": "pollypawpawpaw",
@@ -3055,10 +3055,34 @@
       "AllTimePennys": 140
     },
     {
-      "PlayerName": "",
-      "AuthorCredits": 1,
-      "CurrentSeasonPennys": 250,
-      "AllTimePennys": 250
+      "PlayerName": "sylwina90",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 806,
+      "AllTimePennys": 806
+    },
+    {
+      "PlayerName": "wondertaz",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 1311,
+      "AllTimePennys": 1311
+    },
+    {
+      "PlayerName": "ROTTED",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 60,
+      "AllTimePennys": 60
+    },
+    {
+      "PlayerName": "rottedrapunzel",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 627,
+      "AllTimePennys": 627
+    },
+    {
+      "PlayerName": "nikoheart",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 144,
+      "AllTimePennys": 144
     }
   ]
 }
