@@ -18,7 +18,8 @@
     "fluidfernando",
     "fluidfernando",
     "welikeshapes",
-    "marc_e54"
+    "marc_e54",
+    "thelupineone"
   ],
   "silverMedallists": [
     "abme208",
@@ -39,7 +40,8 @@
     "zeusless",
     "welikeshapes",
     "nowcutthatout",
-    "zeusless"
+    "zeusless",
+    "innisc"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -60,7 +62,8 @@
     "marc_e54",
     "nowcutthatout",
     "fluidfernando",
-    "riffraccoon"
+    "riffraccoon",
+    "jackwilfred"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -84,6 +87,7 @@
     "samstersamster",
     "arunaromatics",
     "samstersamster",
+    "nowcutthatout",
     "nowcutthatout"
   ]
 }
