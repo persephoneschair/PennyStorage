@@ -39,6 +39,7 @@
     "marc_e54",
     "marc_e54",
     "marc_e54",
+    "marc_e54",
     "marc_e54"
   ],
   "silverMedallists": [
@@ -83,7 +84,8 @@
     "fluidfernando",
     "innisc",
     "nowcutthatout",
-    "innisc"
+    "innisc",
+    "t1pster"
   ],
   "bronzeMedallists": [
     "apeminkie",
@@ -129,6 +131,7 @@
     "samstersamster",
     "cliveoflegend",
     "fluidfernando",
+    "welikeshapes",
     "welikeshapes"
   ],
   "lobbyMedallists": []
