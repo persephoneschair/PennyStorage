@@ -64,7 +64,8 @@
     "kollokola",
     "cliveoflegend",
     "marc_e54",
-    "bc2014"
+    "bc2014",
+    "cliveoflegend"
   ],
   "silverMedallists": [
     "abme208",
@@ -133,7 +134,8 @@
     "fluidfernando",
     "thelupineone",
     "servo1991",
-    "its_otley_"
+    "its_otley_",
+    "marc_e54"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -203,7 +205,8 @@
     "nowcutthatout",
     "arunaromatics",
     "nowcutthatout",
-    "lewca_710"
+    "lewca_710",
+    "pljogging"
   ],
   "lobbyMedallists": []
 }
