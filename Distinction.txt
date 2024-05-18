@@ -20,7 +20,8 @@
     "welikeshapes",
     "marc_e54",
     "thelupineone",
-    "zeusless"
+    "zeusless",
+    "nowcutthatout"
   ],
   "silverMedallists": [
     "abme208",
@@ -43,7 +44,8 @@
     "nowcutthatout",
     "zeusless",
     "innisc",
-    "samstersamster"
+    "samstersamster",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -66,7 +68,8 @@
     "fluidfernando",
     "riffraccoon",
     "jackwilfred",
-    "topper1gaming"
+    "topper1gaming",
+    "bc2014"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -92,6 +95,7 @@
     "samstersamster",
     "nowcutthatout",
     "nowcutthatout",
-    "pyropygmy"
+    "pyropygmy",
+    "arunaromatics"
   ]
 }

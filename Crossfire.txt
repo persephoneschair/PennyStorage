@@ -25,7 +25,8 @@
     "riffraccoon",
     "samstersamster",
     "innisc",
-    "fluidfernando"
+    "fluidfernando",
+    "colin_so"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
