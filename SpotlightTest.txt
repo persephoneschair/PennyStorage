@@ -1,1 +1,18 @@
-null
+{
+  "goldMedallists": [
+    "thelupineone",
+    "zeusless",
+    "rottedrapunzel",
+    "royal_flush",
+    "at_bash"
+  ],
+  "silverMedallists": [
+    "battyman2012"
+  ],
+  "bronzeMedallists": [
+    "jurs01",
+    "arunaromatics",
+    "nowcutthatout"
+  ],
+  "lobbyMedallists": []
+}
