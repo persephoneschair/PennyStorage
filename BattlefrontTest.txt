@@ -22,7 +22,7 @@
     "apodonuevo",
     "welikeshapes",
     "cliveoflegend",
-    "ardenfetz"
+    "at_bash"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

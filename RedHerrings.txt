@@ -67,7 +67,9 @@
     "bc2014",
     "cliveoflegend",
     "abme208",
-    "welikeshapes"
+    "welikeshapes",
+    "cliveoflegend",
+    "bc2014"
   ],
   "silverMedallists": [
     "abme208",
@@ -140,7 +142,8 @@
     "marc_e54",
     "cliveoflegend",
     "davidstrathdee",
-    "zeusless"
+    "zeusless",
+    "fluidfernando"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -213,7 +216,8 @@
     "lewca_710",
     "pljogging",
     "dragon7398",
-    "nowcutthatout"
+    "nowcutthatout",
+    "thelupineone"
   ],
   "lobbyMedallists": []
 }
