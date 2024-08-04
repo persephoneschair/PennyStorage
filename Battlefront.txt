@@ -22,7 +22,8 @@
     "apodonuevo",
     "welikeshapes",
     "cliveoflegend",
-    "ardenfetz"
+    "ardenfetz",
+    "thelupineone"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

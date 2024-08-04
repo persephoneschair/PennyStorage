@@ -6,5 +6,9 @@
 {
     "playerName": "vixen_1985",
     "playerScore": 8
+  },
+{
+    "playerName": "kollokola",
+    "playerScore": 4
   }
 ]

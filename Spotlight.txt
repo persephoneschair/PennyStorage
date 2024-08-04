@@ -2,13 +2,16 @@
   "goldMedallists": [
     "thelupineone",
     "zeusless",
-    "nowcutthatout"
+    "nowcutthatout",
+    "zeusless"
   ],
   "silverMedallists": [
     "nowcutthatout",
     "arunaromatics",
     "its_otley_",
-    "jurs01"
+    "jurs01",
+    "samstersamster",
+    "welikeshapes"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -16,7 +19,9 @@
     "samstersamster",
     "marc_e54",
     "pr00gs",
-    "kollokola"
+    "kollokola",
+    "brigbother",
+    "cliveoflegend"
   ],
   "lobbyMedallists": []
 }
