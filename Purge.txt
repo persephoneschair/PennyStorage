@@ -44,7 +44,8 @@
     "samstersamster",
     "welikeshapes",
     "pljogging",
-    "kollokola"
+    "kollokola",
+    "keglercoach"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

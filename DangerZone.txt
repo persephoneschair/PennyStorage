@@ -79,6 +79,7 @@
     "innisc",
     "zeusless",
     "welikeshapes",
+    "marc_e54",
     "marc_e54"
   ],
   "silverMedallists": [
@@ -144,7 +145,8 @@
     "arunaromatics",
     "marc_e54",
     "cliveoflegend",
-    "fluffybunesq"
+    "fluffybunesq",
+    "welikeshapes"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -214,7 +216,8 @@
     "topper1gaming",
     "bc2014",
     "oni91_573",
-    "welikeshapes"
+    "welikeshapes",
+    "astragali"
   ],
   "lobbyMedallists": [
     "claz0r",
@@ -270,6 +273,7 @@
     "ardenfetz",
     "thelupineone",
     "innisc",
+    "kollokola",
     "kollokola"
   ]
 }

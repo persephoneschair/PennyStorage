@@ -27,7 +27,8 @@
     "innisc",
     "fluidfernando",
     "colin_so",
-    "jeeisenz"
+    "jeeisenz",
+    "astragali"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
