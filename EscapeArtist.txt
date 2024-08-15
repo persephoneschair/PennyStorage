@@ -40,7 +40,9 @@
     "innisc",
     "marc_e54",
     "nowcutthatout",
-    "nowcutthatout"
+    "nowcutthatout",
+    "samstersamster",
+    "samstersamster"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
