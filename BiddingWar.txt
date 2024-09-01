@@ -23,7 +23,8 @@
     "nowcutthatout",
     "nowcutthatout",
     "samstersamster",
-    "fluidfernando"
+    "fluidfernando",
+    "claz0r"
   ],
   "silverMedallists": [
     "zeusless",
@@ -49,7 +50,8 @@
     "thelupineone",
     "zeusless",
     "kollokola",
-    "riffraccoon"
+    "riffraccoon",
+    "nowcutthatout"
   ],
   "bronzeMedallists": [],
   "lobbyMedallists": [
@@ -71,6 +73,7 @@
     "jackwilfred",
     "innisc",
     "rottedrapunzel",
-    "arunaromatics"
+    "arunaromatics",
+    "samstersamster"
   ]
 }
