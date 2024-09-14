@@ -24,6 +24,7 @@
     "nowcutthatout",
     "riffraccoon",
     "nowcutthatout",
+    "zeusless",
     "zeusless"
   ],
   "silverMedallists": [
@@ -51,7 +52,8 @@
     "thelupineone",
     "cliveoflegend",
     "rottedrapunzel",
-    "stimpsonsangle"
+    "stimpsonsangle",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -78,7 +80,8 @@
     "bc2014",
     "theocoma",
     "flyb0y1",
-    "abme208"
+    "abme208",
+    "silverelectron"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -108,6 +111,7 @@
     "arunaromatics",
     "welikeshapes",
     "welikeshapes",
-    "apodonuevo"
+    "apodonuevo",
+    "t1pster"
   ]
 }

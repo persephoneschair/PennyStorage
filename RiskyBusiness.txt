@@ -47,7 +47,8 @@
     "nowcutthatout",
     "nowcutthatout",
     "welikeshapes",
-    "marc_e54"
+    "marc_e54",
+    "abme208"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -93,7 +94,8 @@
     "bc2014",
     "zeusless",
     "thelupineone",
-    "samstersamster"
+    "samstersamster",
+    "kollokola"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -145,7 +147,8 @@
     "innisc",
     "welikeshapes",
     "topper1gaming",
-    "nowcutthatout"
+    "nowcutthatout",
+    "topper1gaming"
   ],
   "lobbyMedallists": []
 }

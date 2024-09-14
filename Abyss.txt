@@ -34,7 +34,8 @@
     "marc_e54",
     "nowcutthatout",
     "thelupineone",
-    "nowcutthatout"
+    "nowcutthatout",
+    "thelupineone"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
