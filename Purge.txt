@@ -45,7 +45,8 @@
     "welikeshapes",
     "pljogging",
     "kollokola",
-    "keglercoach"
+    "keglercoach",
+    "sonicelwood"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
