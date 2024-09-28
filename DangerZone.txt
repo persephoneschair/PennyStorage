@@ -81,7 +81,8 @@
     "welikeshapes",
     "marc_e54",
     "marc_e54",
-    "sonicelwood"
+    "sonicelwood",
+    "royal_flush"
   ],
   "silverMedallists": [
     "allylawlawlaw",
@@ -148,7 +149,8 @@
     "cliveoflegend",
     "fluffybunesq",
     "welikeshapes",
-    "welikeshapes"
+    "welikeshapes",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -220,7 +222,8 @@
     "oni91_573",
     "welikeshapes",
     "astragali",
-    "fluffybunesq"
+    "fluffybunesq",
+    "marc_e54"
   ],
   "lobbyMedallists": [
     "claz0r",
@@ -278,6 +281,7 @@
     "innisc",
     "kollokola",
     "kollokola",
-    "cjbinks"
+    "cjbinks",
+    "t1pster"
   ]
 }
