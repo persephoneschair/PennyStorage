@@ -3,12 +3,16 @@
     "playerName": "fluidfernando",
     "playerScore": 7
   },
-{
+  {
     "playerName": "vixen_1985",
     "playerScore": 8
   },
-{
+  {
     "playerName": "kollokola",
     "playerScore": 4
+  },
+  {
+    "playerName": "samstersamster",
+    "playerScore": 7
   }
 ]
