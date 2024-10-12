@@ -35,7 +35,8 @@
     "nowcutthatout",
     "thelupineone",
     "nowcutthatout",
-    "thelupineone"
+    "thelupineone",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
