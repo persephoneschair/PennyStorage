@@ -4,7 +4,8 @@
     "zeusless",
     "nowcutthatout",
     "zeusless",
-    "samstersamster"
+    "samstersamster",
+    "zeusless"
   ],
   "silverMedallists": [
     "nowcutthatout",
@@ -15,7 +16,10 @@
     "welikeshapes",
     "welikeshapes",
     "kollokola",
-    "arunaromatics"
+    "arunaromatics",
+    "brigbother",
+    "riasu_grem",
+    "kollokola"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -27,7 +31,8 @@
     "brigbother",
     "cliveoflegend",
     "pr00gs",
-    "pljogging"
+    "pljogging",
+    "marc_e54"
   ],
   "lobbyMedallists": []
 }

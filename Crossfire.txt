@@ -28,7 +28,8 @@
     "fluidfernando",
     "colin_so",
     "jeeisenz",
-    "astragali"
+    "astragali",
+    "paulister"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

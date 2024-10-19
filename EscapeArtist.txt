@@ -42,7 +42,8 @@
     "nowcutthatout",
     "nowcutthatout",
     "samstersamster",
-    "samstersamster"
+    "samstersamster",
+    "innisc"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
