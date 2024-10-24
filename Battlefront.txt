@@ -24,7 +24,8 @@
     "cliveoflegend",
     "ardenfetz",
     "thelupineone",
-    "welikeshapes"
+    "welikeshapes",
+    "marc_e54"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
