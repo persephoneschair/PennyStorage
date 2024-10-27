@@ -36,6 +36,7 @@
     "nowcutthatout",
     "thelupineone",
     "nowcutthatout",
+    "nowcutthatout",
     "nowcutthatout"
   ],
   "silverMedallists": [
@@ -76,6 +77,7 @@
     "marc_e54",
     "zeusless",
     "innisc",
+    "zeusless",
     "zeusless"
   ],
   "bronzeMedallists": [
@@ -117,7 +119,8 @@
     "welikeshapes",
     "nowcutthatout",
     "welikeshapes",
-    "welikeshapes"
+    "welikeshapes",
+    "arunaromatics"
   ],
   "lobbyMedallists": []
 }

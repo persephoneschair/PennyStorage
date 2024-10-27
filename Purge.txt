@@ -46,7 +46,8 @@
     "pljogging",
     "kollokola",
     "keglercoach",
-    "sonicelwood"
+    "sonicelwood",
+    "fluffybunesq"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
