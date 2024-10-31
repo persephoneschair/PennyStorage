@@ -24,7 +24,8 @@
     "nowcutthatout",
     "samstersamster",
     "fluidfernando",
-    "claz0r"
+    "claz0r",
+    "samstersamster"
   ],
   "silverMedallists": [
     "zeusless",
@@ -51,7 +52,8 @@
     "zeusless",
     "kollokola",
     "riffraccoon",
-    "nowcutthatout"
+    "nowcutthatout",
+    "cliveoflegend"
   ],
   "bronzeMedallists": [],
   "lobbyMedallists": [
@@ -74,6 +76,7 @@
     "innisc",
     "rottedrapunzel",
     "arunaromatics",
-    "samstersamster"
+    "samstersamster",
+    "nowcutthatout"
   ]
 }
