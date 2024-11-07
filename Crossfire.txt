@@ -29,7 +29,8 @@
     "colin_so",
     "jeeisenz",
     "astragali",
-    "paulister"
+    "paulister",
+    "flyb0y1"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
