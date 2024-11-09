@@ -74,7 +74,8 @@
     "topper1gaming",
     "welikeshapes",
     "nowcutthatout",
-    "cliveoflegend"
+    "cliveoflegend",
+    "welikeshapes"
   ],
   "silverMedallists": [
     "abme208",
@@ -153,7 +154,8 @@
     "silverelectron",
     "jr_plays_games",
     "thelupineone",
-    "samstersamster"
+    "samstersamster",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -233,6 +235,7 @@
     "fluidfernando",
     "abme208",
     "oni91_573",
+    "nowcutthatout",
     "nowcutthatout"
   ],
   "lobbyMedallists": []
