@@ -50,7 +50,8 @@
     "marc_e54",
     "abme208",
     "welikeshapes",
-    "bc2014"
+    "bc2014",
+    "opsimaths"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -99,7 +100,8 @@
     "samstersamster",
     "kollokola",
     "marc_e54",
-    "its_otley_"
+    "its_otley_",
+    "pyropygmy"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -154,7 +156,8 @@
     "nowcutthatout",
     "topper1gaming",
     "zeusless",
-    "kollokola"
+    "kollokola",
+    "oni91_573"
   ],
   "lobbyMedallists": []
 }
