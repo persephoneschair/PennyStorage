@@ -5,7 +5,9 @@
     "nowcutthatout",
     "zeusless",
     "samstersamster",
-    "zeusless"
+    "zeusless",
+    "thelupineone",
+    "pyropygmy"
   ],
   "silverMedallists": [
     "nowcutthatout",
@@ -19,6 +21,7 @@
     "arunaromatics",
     "brigbother",
     "riasu_grem",
+    "kollokola",
     "kollokola"
   ],
   "bronzeMedallists": [
@@ -32,7 +35,11 @@
     "cliveoflegend",
     "pr00gs",
     "pljogging",
-    "marc_e54"
+    "marc_e54",
+    "abme208",
+    "riasu_grem",
+    "cliveoflegend",
+    "pljogging"
   ],
   "lobbyMedallists": []
 }

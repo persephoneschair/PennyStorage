@@ -18,5 +18,9 @@
   {
     "playerName": "brigbother",
     "playerScore": 6
+  },
+  {
+    "playerName": "jr_plays_games",
+    "playerScore": 6
   }
 ]
