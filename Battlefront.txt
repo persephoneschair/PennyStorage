@@ -26,7 +26,8 @@
     "thelupineone",
     "welikeshapes",
     "marc_e54",
-    "topper1gaming"
+    "topper1gaming",
+    "oni91_573"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
