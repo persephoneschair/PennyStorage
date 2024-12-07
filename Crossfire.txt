@@ -30,7 +30,8 @@
     "jeeisenz",
     "astragali",
     "paulister",
-    "flyb0y1"
+    "flyb0y1",
+    "opsimaths"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
