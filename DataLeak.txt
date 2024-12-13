@@ -37,7 +37,8 @@
     "thelupineone",
     "nowcutthatout",
     "nowcutthatout",
-    "nowcutthatout"
+    "nowcutthatout",
+    "innisc"
   ],
   "silverMedallists": [
     "innisc",
@@ -78,7 +79,8 @@
     "zeusless",
     "innisc",
     "zeusless",
-    "zeusless"
+    "zeusless",
+    "nowcutthatout"
   ],
   "bronzeMedallists": [
     "cliveoflegend",
@@ -120,7 +122,8 @@
     "nowcutthatout",
     "welikeshapes",
     "welikeshapes",
-    "arunaromatics"
+    "arunaromatics",
+    "welikeshapes"
   ],
   "lobbyMedallists": []
 }

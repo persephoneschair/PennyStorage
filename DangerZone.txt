@@ -84,7 +84,8 @@
     "sonicelwood",
     "royal_flush",
     "welikeshapes",
-    "thelupineone"
+    "thelupineone",
+    "welikeshapes"
   ],
   "silverMedallists": [
     "allylawlawlaw",
@@ -154,7 +155,8 @@
     "welikeshapes",
     "thelupineone",
     "astragali",
-    "welikeshapes"
+    "welikeshapes",
+    "innisc"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -230,7 +232,8 @@
     "marc_e54",
     "arunaromatics",
     "samstersamster",
-    "astragali"
+    "astragali",
+    "samstersamster"
   ],
   "lobbyMedallists": [
     "claz0r",
@@ -292,6 +295,7 @@
     "t1pster",
     "thelupineone",
     "stilghar_tkenn",
-    "vixen_1985"
+    "vixen_1985",
+    "kollokola"
   ]
 }
