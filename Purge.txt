@@ -48,7 +48,8 @@
     "keglercoach",
     "sonicelwood",
     "fluffybunesq",
-    "fluffybunesq"
+    "fluffybunesq",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
