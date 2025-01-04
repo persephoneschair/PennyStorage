@@ -29,7 +29,8 @@
     "bc2014",
     "jerryeris",
     "bc2014",
-    "innisc"
+    "innisc",
+    "nowcutthatout"
   ],
   "silverMedallists": [
     "abme208",
@@ -61,7 +62,8 @@
     "abme208",
     "ardenfetz",
     "ardenfetz",
-    "nowcutthatout"
+    "nowcutthatout",
+    "zeusless"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -93,7 +95,8 @@
     "welikeshapes",
     "cliveoflegend",
     "apeminkie",
-    "marc_e54"
+    "marc_e54",
+    "fluidfernando"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -128,6 +131,7 @@
     "kollokola",
     "samstersamster",
     "flyb0y1",
-    "samstersamster"
+    "samstersamster",
+    "fluffybunesq"
   ]
 }
