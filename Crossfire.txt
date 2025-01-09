@@ -32,7 +32,8 @@
     "paulister",
     "flyb0y1",
     "opsimaths",
-    "its_otley_"
+    "its_otley_",
+    "pljogging"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
