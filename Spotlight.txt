@@ -8,6 +8,8 @@
     "zeusless",
     "thelupineone",
     "pyropygmy",
+    "oni91_573",
+    "riasu_grem",
     "oni91_573"
   ],
   "silverMedallists": [
@@ -25,7 +27,8 @@
     "kollokola",
     "kollokola",
     "its_otley_",
-    "riasu_grem"
+    "riasu_grem",
+    "kollokola"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -44,7 +47,8 @@
     "cliveoflegend",
     "pljogging",
     "topper1gaming",
-    "arunaromatics"
+    "arunaromatics",
+    "its_otley_"
   ],
   "lobbyMedallists": []
 }

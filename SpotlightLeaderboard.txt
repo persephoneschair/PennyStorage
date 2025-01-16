@@ -4,10 +4,6 @@
     "playerScore": 7
   },
   {
-    "playerName": "vixen_1985",
-    "playerScore": 8
-  },
-  {
     "playerName": "kollokola",
     "playerScore": 4
   },
@@ -26,5 +22,9 @@
   {
     "playerName": "its_otley_",
     "playerScore": 9
+  },
+  {
+    "playerName": "abme208",
+    "playerScore": 5
   }
 ]

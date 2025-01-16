@@ -298,7 +298,6 @@
     "t1pster",
     "thelupineone",
     "stilghar_tkenn",
-    "vixen_1985",
     "kollokola",
     "thetiggo"
   ]

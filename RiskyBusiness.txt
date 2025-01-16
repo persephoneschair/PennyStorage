@@ -52,7 +52,9 @@
     "welikeshapes",
     "bc2014",
     "opsimaths",
-    "thelupineone"
+    "thelupineone",
+    "innisc",
+    "marc_e54"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -103,7 +105,8 @@
     "marc_e54",
     "its_otley_",
     "pyropygmy",
-    "natterikh"
+    "natterikh",
+    "samstersamster"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -160,7 +163,8 @@
     "zeusless",
     "kollokola",
     "oni91_573",
-    "astragali"
+    "astragali",
+    "its_otley_"
   ],
   "lobbyMedallists": []
 }
