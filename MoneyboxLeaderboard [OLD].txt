@@ -1,0 +1,94 @@
+[
+  {
+    "playerName": "zeusless",
+    "playerScore": 900
+  },
+  {
+    "playerName": "thelupineone",
+    "playerScore": 900
+  },
+  {
+    "playerName": "pljogging",
+    "playerScore": 462
+  },
+  {
+    "playerName": "cyclespace",
+    "playerScore": 462
+  },
+  {
+    "playerName": "claz0r",
+    "playerScore": 190
+  },
+  {
+    "playerName": "jurs01",
+    "playerScore": 190
+  },
+  {
+    "playerName": "keglercoach",
+    "playerScore": 237
+  },
+  {
+    "playerName": "innisc",
+    "playerScore": 875
+  },
+  {
+    "playerName": "arunaromatics",
+    "playerScore": 150
+  },
+  {
+    "playerName": "samstersamster",
+    "playerScore": 150
+  },
+  {
+    "playerName": "jackwilfred",
+    "playerScore": 1575
+  },
+  {
+    "playerName": "welikeshapes",
+    "playerScore": 443
+  },
+  {
+    "playerName": "tau_af",
+    "playerScore": 443
+  },
+  {
+    "playerName": "tau_af",
+    "playerScore": 562
+  },
+  {
+    "playerName": "claz0r",
+    "playerScore": 1450
+  },
+  {
+    "playerName": "oni91_573",
+    "playerScore": 1450
+  },
+  {
+    "playerName": "thelupineone",
+    "playerScore": 1175
+  },
+  {
+    "playerName": "m3times",
+    "playerScore": 287
+  },
+  {
+    "playerName": "oni91_573",
+    "playerScore": 287
+  },
+  {
+    "playerName": "pljogging",
+    "playerScore": 2225
+  },
+  {
+    "playerName": "oni91_573",
+    "playerScore": 262
+  },
+  {
+    "playerName": "stilghar_tkenn",
+    "playerScore": 525
+  },
+  {
+    "playerName": "thelupineone",
+    "playerScore": 525
+  }
+]

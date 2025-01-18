@@ -38,7 +38,8 @@
     "nowcutthatout",
     "nowcutthatout",
     "nowcutthatout",
-    "innisc"
+    "innisc",
+    "samstersamster"
   ],
   "silverMedallists": [
     "innisc",
@@ -80,7 +81,8 @@
     "innisc",
     "zeusless",
     "zeusless",
-    "nowcutthatout"
+    "nowcutthatout",
+    "welikeshapes"
   ],
   "bronzeMedallists": [
     "cliveoflegend",
@@ -123,7 +125,8 @@
     "welikeshapes",
     "welikeshapes",
     "arunaromatics",
-    "welikeshapes"
+    "welikeshapes",
+    "thelupineone"
   ],
   "lobbyMedallists": []
 }
