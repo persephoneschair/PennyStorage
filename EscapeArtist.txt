@@ -45,7 +45,8 @@
     "samstersamster",
     "innisc",
     "thelupineone",
-    "nowcutthatout"
+    "nowcutthatout",
+    "thelupineone"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
