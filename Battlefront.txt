@@ -29,7 +29,8 @@
     "topper1gaming",
     "oni91_573",
     "samstersamster",
-    "thelupineone"
+    "thelupineone",
+    "flyb0y1"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

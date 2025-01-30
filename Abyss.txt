@@ -39,7 +39,8 @@
     "nowcutthatout",
     "nowcutthatout",
     "nowcutthatout",
-    "samstersamster"
+    "samstersamster",
+    "marc_e54"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
