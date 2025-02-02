@@ -26,5 +26,9 @@
   {
     "playerName": "abme208",
     "playerScore": 5
+  },
+  {
+    "playerName": "mistervurtigo",
+    "playerScore": 8
   }
 ]

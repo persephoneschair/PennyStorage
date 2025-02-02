@@ -10,7 +10,9 @@
     "pyropygmy",
     "oni91_573",
     "riasu_grem",
-    "oni91_573"
+    "oni91_573",
+    "riasu_grem",
+    "its_otley_"
   ],
   "silverMedallists": [
     "nowcutthatout",
@@ -28,7 +30,8 @@
     "kollokola",
     "its_otley_",
     "riasu_grem",
-    "kollokola"
+    "kollokola",
+    "natterikh"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -48,7 +51,8 @@
     "pljogging",
     "topper1gaming",
     "arunaromatics",
-    "its_otley_"
+    "its_otley_",
+    "welikeshapes"
   ],
   "lobbyMedallists": []
 }
