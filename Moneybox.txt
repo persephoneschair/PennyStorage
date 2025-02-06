@@ -1,12 +1,12 @@
 {
   "goldMedallists": [
-
+    "zeusless"
   ],
   "silverMedallists": [
-
+    "the_nekkid_grandma"
   ],
   "bronzeMedallists": [
-
+    "kollokola"
   ],
   "lobbyMedallists": []
 }

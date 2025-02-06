@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "playerName": "pr00gs & welikeshapes",
+    "playerScore": 5125
+  }
+]
