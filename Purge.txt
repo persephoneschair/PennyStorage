@@ -51,7 +51,8 @@
     "fluffybunesq",
     "nowcutthatout",
     "welikeshapes",
-    "oni91_573"
+    "oni91_573",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
