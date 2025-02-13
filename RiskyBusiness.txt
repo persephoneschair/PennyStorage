@@ -55,7 +55,8 @@
     "thelupineone",
     "innisc",
     "marc_e54",
-    "samstersamster"
+    "samstersamster",
+    "abme208"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -108,7 +109,8 @@
     "pyropygmy",
     "natterikh",
     "samstersamster",
-    "marc_e54"
+    "marc_e54",
+    "kollokola"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -167,7 +169,8 @@
     "oni91_573",
     "astragali",
     "its_otley_",
-    "bc2014"
+    "bc2014",
+    "cliveoflegend"
   ],
   "lobbyMedallists": []
 }

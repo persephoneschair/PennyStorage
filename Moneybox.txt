@@ -1,11 +1,14 @@
 {
   "goldMedallists": [
+    "mattthespratt",
     "zeusless"
   ],
   "silverMedallists": [
+    "stimpsonsangle",
     "the_nekkid_grandma"
   ],
   "bronzeMedallists": [
+    "rias_greum",
     "kollokola"
   ],
   "lobbyMedallists": []
