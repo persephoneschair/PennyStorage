@@ -30,5 +30,9 @@
   {
     "playerName": "mistervurtigo",
     "playerScore": 8
+  },
+  {
+    "playerName": "stilghar_tkenn",
+    "playerScore": 9
   }
 ]

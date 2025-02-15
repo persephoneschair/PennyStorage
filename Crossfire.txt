@@ -34,7 +34,8 @@
     "opsimaths",
     "its_otley_",
     "pljogging",
-    "stilghar_tkenn"
+    "stilghar_tkenn",
+    "fluidfernando"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
