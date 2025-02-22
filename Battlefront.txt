@@ -30,7 +30,8 @@
     "oni91_573",
     "samstersamster",
     "thelupineone",
-    "flyb0y1"
+    "flyb0y1",
+    "kollokola"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

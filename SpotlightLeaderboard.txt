@@ -34,5 +34,9 @@
   {
     "playerName": "stilghar_tkenn",
     "playerScore": 9
+  },
+  {
+    "playerName": "stilghar_tkenn [ARCADE MODE: /4]",
+    "playerScore": 3
   }
 ]
