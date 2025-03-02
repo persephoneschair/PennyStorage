@@ -10,5 +10,9 @@
   {
     "playerName": "innisc & zeusless",
     "playerScore": 3013
+  },
+  {
+    "playerName": "t1pster & thelupineone",
+    "playerScore": 2282
   }
 ]

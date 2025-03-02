@@ -2,17 +2,20 @@
   "goldMedallists": [
     "mattthespratt",
     "zeusless",
-    "ardenfetz"
+    "ardenfetz",
+    "opsimaths"
   ],
   "silverMedallists": [
     "stimpsonsangle",
     "the_nekkid_grandma",
-    "thelupineone"
+    "thelupineone",
+    "bc2014"
   ],
   "bronzeMedallists": [
     "rias_greum",
     "kollokola",
-    "stimpsonsangle"
+    "stimpsonsangle",
+    "cliveoflegend"
   ],
   "lobbyMedallists": []
 }

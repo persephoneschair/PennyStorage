@@ -88,7 +88,8 @@
     "welikeshapes",
     "marc_e54",
     "marc_e54",
-    "clayton_"
+    "clayton_",
+    "abme208"
   ],
   "silverMedallists": [
     "allylawlawlaw",
@@ -162,7 +163,8 @@
     "innisc",
     "samstersamster",
     "jr_plays_games",
-    "oni91_573"
+    "oni91_573",
+    "innisc"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -242,7 +244,8 @@
     "samstersamster",
     "fluidfernando",
     "fluidfernando",
-    "jr_plays_games"
+    "jr_plays_games",
+    "welikeshapes"
   ],
   "lobbyMedallists": [
     "claz0r",
@@ -309,6 +312,7 @@
     "thelupineone",
     "riffraccoon",
     "thelupineone",
-    "welikeshapes"
+    "welikeshapes",
+    "thelupineone"
   ]
 }

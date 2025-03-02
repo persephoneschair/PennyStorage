@@ -35,7 +35,8 @@
     "its_otley_",
     "pljogging",
     "stilghar_tkenn",
-    "fluidfernando"
+    "fluidfernando",
+    "marc_e54"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

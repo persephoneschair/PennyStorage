@@ -78,7 +78,8 @@
     "welikeshapes",
     "thelupineone",
     "nowcutthatout",
-    "riasu_grem"
+    "riasu_grem",
+    "mistervurtigo"
   ],
   "silverMedallists": [
     "abme208",
@@ -161,7 +162,8 @@
     "thelupineone",
     "fluidfernando",
     "fluidfernando",
-    "thelupineone"
+    "thelupineone",
+    "cliveoflegend"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -247,7 +249,8 @@
     "riffraccoon",
     "warking14",
     "kollokola",
-    "fluffybunesq"
+    "fluffybunesq",
+    "apeminkie"
   ],
   "lobbyMedallists": []
 }

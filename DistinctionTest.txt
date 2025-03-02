@@ -32,7 +32,6 @@
     "innisc",
     "nowcutthatout",
     "nowcutthatout",
-    "nowcutthatout",
     "nowcutthatout"
   ],
   "silverMedallists": [
@@ -68,8 +67,7 @@
     "nowcutthatout",
     "zeusless",
     "zeusless",
-    "pr00gs",
-    "arunaromatics"
+    "pr00gs"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -104,8 +102,7 @@
     "marc_e54",
     "fluidfernando",
     "arunaromatics",
-    "thelupineone",
-    "bc2014"
+    "thelupineone"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -143,7 +140,6 @@
     "samstersamster",
     "fluffybunesq",
     "mistervurtigo",
-    "riffraccoon",
-    "jr_plays_games"
+    "riffraccoon"
   ]
 }
