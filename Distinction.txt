@@ -47,7 +47,7 @@
     "jackwilfred",
     "fluidfernando",
     "cliveoflegend",
-    "mistervurtigo",
+    "vurtiqo",
     "nowcutthatout",
     "welikeshapes",
     "abme208",
@@ -142,7 +142,7 @@
     "flyb0y1",
     "samstersamster",
     "fluffybunesq",
-    "mistervurtigo",
+    "vurtiqo",
     "riffraccoon",
     "jr_plays_games"
   ]

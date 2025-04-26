@@ -4,7 +4,7 @@
     "spokes__",
     "riffraccoon",
     "heydevdev",
-    "mistervurtigo",
+    "vurtiqo",
     "jackwilfred",
     "oni91_573",
     "jurs01",

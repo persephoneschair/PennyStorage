@@ -3,19 +3,22 @@
     "mattthespratt",
     "zeusless",
     "ardenfetz",
-    "opsimaths"
+    "opsimaths",
+    "cliveoflegend"
   ],
   "silverMedallists": [
     "stimpsonsangle",
     "the_nekkid_grandma",
     "thelupineone",
-    "bc2014"
+    "bc2014",
+    "pyropygmy"
   ],
   "bronzeMedallists": [
     "rias_greum",
     "kollokola",
     "stimpsonsangle",
-    "cliveoflegend"
+    "cliveoflegend",
+    "zeusless"
   ],
   "lobbyMedallists": []
 }

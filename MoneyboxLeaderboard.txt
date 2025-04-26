@@ -14,5 +14,9 @@
   {
     "playerName": "t1pster & thelupineone",
     "playerScore": 2282
+  },
+  {
+    "playerName": "woollyback & shadowmanepx41",
+    "playerScore": 1713
   }
 ]
