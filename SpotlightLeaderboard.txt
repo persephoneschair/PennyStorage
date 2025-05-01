@@ -28,7 +28,7 @@
     "playerScore": 5
   },
   {
-    "playerName": "mistervurtigo",
+    "playerName": "vurtiqo",
     "playerScore": 8
   },
   {

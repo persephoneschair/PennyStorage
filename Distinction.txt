@@ -33,7 +33,8 @@
     "nowcutthatout",
     "nowcutthatout",
     "nowcutthatout",
-    "nowcutthatout"
+    "nowcutthatout",
+    "abme208"
   ],
   "silverMedallists": [
     "abme208",
@@ -69,7 +70,8 @@
     "zeusless",
     "zeusless",
     "pr00gs",
-    "arunaromatics"
+    "arunaromatics",
+    "oni91_573"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -105,7 +107,8 @@
     "fluidfernando",
     "arunaromatics",
     "thelupineone",
-    "bc2014"
+    "bc2014",
+    "pljogging"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -144,6 +147,7 @@
     "fluffybunesq",
     "vurtiqo",
     "riffraccoon",
-    "jr_plays_games"
+    "jr_plays_games",
+    "riffraccoon"
   ]
 }

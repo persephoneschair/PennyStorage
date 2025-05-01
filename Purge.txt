@@ -53,7 +53,8 @@
     "welikeshapes",
     "oni91_573",
     "nowcutthatout",
-    "innisc"
+    "innisc",
+    "clayton_"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
