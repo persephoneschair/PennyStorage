@@ -32,7 +32,8 @@
     "thelupineone",
     "flyb0y1",
     "kollokola",
-    "mattthespratt"
+    "mattthespratt",
+    "zeusless"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

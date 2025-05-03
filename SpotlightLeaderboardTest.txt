@@ -40,7 +40,7 @@
     "playerScore": 3
   },
   {
-    "playerName": "connors1009",
-    "playerScore": 7
+    "playerName": "topper1gaming",
+    "playerScore": 1
   }
 ]

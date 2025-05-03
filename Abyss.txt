@@ -42,7 +42,8 @@
     "samstersamster",
     "marc_e54",
     "nowcutthatout",
-    "oni91_573"
+    "oni91_573",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
