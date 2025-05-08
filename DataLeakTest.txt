@@ -34,7 +34,16 @@
     "innisc",
     "nowcutthatout",
     "nowcutthatout",
-    "kollokola"
+    "thelupineone",
+    "nowcutthatout",
+    "nowcutthatout",
+    "nowcutthatout",
+    "innisc",
+    "samstersamster",
+    "welikeshapes",
+    "nowcutthatout",
+    "kollokola",
+    "topper1gaming"
   ],
   "silverMedallists": [
     "innisc",
@@ -70,7 +79,16 @@
     "samstersamster",
     "lewca_710",
     "innisc",
-    "royal_flush"
+    "apodonuevo",
+    "marc_e54",
+    "zeusless",
+    "innisc",
+    "zeusless",
+    "zeusless",
+    "nowcutthatout",
+    "welikeshapes",
+    "nowcutthatout",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "cliveoflegend",
@@ -108,7 +126,16 @@
     "innisc",
     "marc_e54",
     "marc_e54",
-    "welikeshapes"
+    "welikeshapes",
+    "nowcutthatout",
+    "welikeshapes",
+    "welikeshapes",
+    "arunaromatics",
+    "welikeshapes",
+    "thelupineone",
+    "innisc",
+    "samstersamster",
+    "pljogging"
   ],
   "lobbyMedallists": []
 }
