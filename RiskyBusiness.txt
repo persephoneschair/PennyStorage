@@ -57,7 +57,8 @@
     "marc_e54",
     "samstersamster",
     "abme208",
-    "apeminkie"
+    "apeminkie",
+    "samstersamster"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -112,7 +113,8 @@
     "samstersamster",
     "marc_e54",
     "kollokola",
-    "michaelm238"
+    "michaelm238",
+    "nowcutthatout"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -173,7 +175,8 @@
     "its_otley_",
     "bc2014",
     "cliveoflegend",
-    "zeusless"
+    "zeusless",
+    "bc2014"
   ],
   "lobbyMedallists": []
 }
