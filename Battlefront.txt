@@ -33,7 +33,8 @@
     "flyb0y1",
     "kollokola",
     "mattthespratt",
-    "zeusless"
+    "zeusless",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
