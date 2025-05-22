@@ -42,5 +42,9 @@
   {
     "playerName": "connors1009",
     "playerScore": 7
+  },
+  {
+    "playerName": "thelupineone",
+    "playerScore": 8
   }
 ]

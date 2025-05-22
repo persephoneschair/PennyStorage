@@ -27,7 +27,7 @@
     "claz0r",
     "samstersamster",
     "innisc",
-    "thelupineone"
+    "topper1gaming"
   ],
   "silverMedallists": [
     "zeusless",
@@ -57,7 +57,7 @@
     "nowcutthatout",
     "cliveoflegend",
     "marc_e54",
-    "jerryeris"
+    "abme208"
   ],
   "bronzeMedallists": [],
   "lobbyMedallists": [
@@ -83,6 +83,6 @@
     "samstersamster",
     "nowcutthatout",
     "sonicelwood",
-    "nowcutthatout"
+    "cliveoflegend"
   ]
 }
