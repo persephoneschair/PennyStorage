@@ -54,7 +54,8 @@
     "oni91_573",
     "nowcutthatout",
     "innisc",
-    "clayton_"
+    "clayton_",
+    "marc_e54"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

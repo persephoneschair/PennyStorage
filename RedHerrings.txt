@@ -79,7 +79,8 @@
     "thelupineone",
     "nowcutthatout",
     "vurtiqo",
-    "thelupineone"
+    "thelupineone",
+    "marc_e54"
   ],
   "silverMedallists": [
     "abme208",
@@ -164,7 +165,8 @@
     "fluidfernando",
     "thelupineone",
     "cliveoflegend",
-    "cliveoflegend"
+    "cliveoflegend",
+    "arunaromatics"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -252,7 +254,8 @@
     "kollokola",
     "fluffybunesq",
     "apeminkie",
-    "bc2014"
+    "bc2014",
+    "jerryeris"
   ],
   "lobbyMedallists": []
 }
