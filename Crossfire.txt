@@ -38,7 +38,8 @@
     "fluidfernando",
     "marc_e54",
     "cliveoflegend",
-    "fluffybunesq"
+    "fluffybunesq",
+    "fluidfernando"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
