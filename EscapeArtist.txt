@@ -48,7 +48,8 @@
     "nowcutthatout",
     "thelupineone",
     "marc_e54",
-    "welikeshapes"
+    "welikeshapes",
+    "innisc"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
