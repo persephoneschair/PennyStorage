@@ -34,7 +34,8 @@
     "kollokola",
     "mattthespratt",
     "zeusless",
-    "nowcutthatout"
+    "nowcutthatout",
+    "riffraccoon"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
