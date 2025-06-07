@@ -4,21 +4,24 @@
     "zeusless",
     "ardenfetz",
     "opsimaths",
-    "cliveoflegend"
+    "cliveoflegend",
+    "cursetoucan"
   ],
   "silverMedallists": [
     "stimpsonsangle",
     "the_nekkid_grandma",
     "thelupineone",
     "bc2014",
-    "pyropygmy"
+    "pyropygmy",
+    "raceprouk"
   ],
   "bronzeMedallists": [
     "rias_greum",
     "kollokola",
     "stimpsonsangle",
     "cliveoflegend",
-    "zeusless"
+    "zeusless",
+    "veganeklapsengamer"
   ],
   "lobbyMedallists": []
 }

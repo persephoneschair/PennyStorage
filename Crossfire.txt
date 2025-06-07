@@ -39,7 +39,8 @@
     "marc_e54",
     "cliveoflegend",
     "fluffybunesq",
-    "fluidfernando"
+    "fluidfernando",
+    "jr_plays_games"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

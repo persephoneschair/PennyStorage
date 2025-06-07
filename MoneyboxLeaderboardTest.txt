@@ -8,7 +8,19 @@
     "playerScore": 5125
   },
   {
-    "playerName": "heydevdev & huds601",
-    "playerScore": 4450
+    "playerName": "innisc & zeusless",
+    "playerScore": 3013
+  },
+  {
+    "playerName": "t1pster & thelupineone",
+    "playerScore": 2282
+  },
+  {
+    "playerName": "woollyback & shadowmanepx41",
+    "playerScore": 1713
+  },
+  {
+    "playerName": "huds601 & hibnotix",
+    "playerScore": 2500
   }
 ]

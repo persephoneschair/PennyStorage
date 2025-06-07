@@ -2,16 +2,24 @@
   "goldMedallists": [
     "mattthespratt",
     "zeusless",
-    "at_bash"
+    "ardenfetz",
+    "opsimaths",
+    "cliveoflegend",
+    "topper1gaming"
   ],
   "silverMedallists": [
     "stimpsonsangle",
     "the_nekkid_grandma",
-    "royal_flush"
+    "thelupineone",
+    "bc2014",
+    "pyropygmy"
   ],
   "bronzeMedallists": [
     "rias_greum",
-    "kollokola"
+    "kollokola",
+    "stimpsonsangle",
+    "cliveoflegend",
+    "zeusless"
   ],
   "lobbyMedallists": []
 }
