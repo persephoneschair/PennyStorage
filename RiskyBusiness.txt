@@ -59,7 +59,8 @@
     "abme208",
     "apeminkie",
     "samstersamster",
-    "kollokola"
+    "kollokola",
+    "riffraccoon"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -116,7 +117,8 @@
     "kollokola",
     "michaelm238",
     "nowcutthatout",
-    "bc2014"
+    "bc2014",
+    "marc_e54"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -179,7 +181,8 @@
     "cliveoflegend",
     "zeusless",
     "bc2014",
-    "flyb0y1"
+    "flyb0y1",
+    "michaelm238"
   ],
   "lobbyMedallists": []
 }
