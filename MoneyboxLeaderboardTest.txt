@@ -21,6 +21,10 @@
   },
   {
     "playerName": "huds601 & hibnotix",
-    "playerScore": 2500
+    "playerScore": 6100
+  },
+  {
+    "playerName": "royal_flush & at_bash",
+    "playerScore": 1800
   }
 ]

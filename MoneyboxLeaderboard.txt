@@ -22,5 +22,9 @@
   {
     "playerName": "huds601 & hibnotix",
     "playerScore": 6100
+  },
+  {
+    "playerName": "royal_flush & at_bash",
+    "playerScore": 125
   }
 ]
