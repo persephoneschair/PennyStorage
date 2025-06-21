@@ -2679,8 +2679,8 @@
     {
       "PlayerName": "royal_flush",
       "AuthorCredits": 106,
-      "CurrentSeasonPennys": 2475,
-      "AllTimePennys": 18140
+      "CurrentSeasonPennys": 2476,
+      "AllTimePennys": 18141
     },
     {
       "PlayerName": "royjohnson490",
