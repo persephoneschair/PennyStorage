@@ -36,7 +36,8 @@
     "nowcutthatout",
     "abme208",
     "samstersamster",
-    "marc_e54"
+    "marc_e54",
+    "bc2014"
   ],
   "silverMedallists": [
     "abme208",
@@ -75,7 +76,8 @@
     "arunaromatics",
     "oni91_573",
     "arunaromatics",
-    "bc2014"
+    "bc2014",
+    "fluidfernando"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -114,7 +116,8 @@
     "bc2014",
     "pljogging",
     "thelupineone",
-    "flyb0y1"
+    "flyb0y1",
+    "welikeshapes"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -156,6 +159,7 @@
     "jr_plays_games",
     "riffraccoon",
     "nowcutthatout",
-    "cliveoflegend"
+    "cliveoflegend",
+    "riffraccoon"
   ]
 }

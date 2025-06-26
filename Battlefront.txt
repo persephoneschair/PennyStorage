@@ -35,7 +35,8 @@
     "mattthespratt",
     "zeusless",
     "nowcutthatout",
-    "riffraccoon"
+    "riffraccoon",
+    "samstersamster"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
