@@ -50,7 +50,8 @@
     "marc_e54",
     "welikeshapes",
     "innisc",
-    "nowcutthatout"
+    "nowcutthatout",
+    "welikeshapes"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
