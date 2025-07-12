@@ -34,7 +34,11 @@
     "nowcutthatout",
     "nowcutthatout",
     "nowcutthatout",
-    "kollokola"
+    "abme208",
+    "samstersamster",
+    "marc_e54",
+    "bc2014",
+    "royal_flush"
   ],
   "silverMedallists": [
     "abme208",
@@ -71,7 +75,11 @@
     "zeusless",
     "pr00gs",
     "arunaromatics",
-    "lewist1"
+    "oni91_573",
+    "arunaromatics",
+    "bc2014",
+    "fluidfernando",
+    "kollokola"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -108,7 +116,11 @@
     "arunaromatics",
     "thelupineone",
     "bc2014",
-    "samstersamster"
+    "pljogging",
+    "thelupineone",
+    "flyb0y1",
+    "welikeshapes",
+    "at_bash"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -148,6 +160,10 @@
     "vurtiqo",
     "riffraccoon",
     "jr_plays_games",
-    "at_bash"
+    "riffraccoon",
+    "nowcutthatout",
+    "cliveoflegend",
+    "riffraccoon",
+    "samstersamster"
   ]
 }

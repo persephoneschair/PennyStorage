@@ -49,7 +49,10 @@
     "thelupineone",
     "marc_e54",
     "welikeshapes",
-    "huds601"
+    "innisc",
+    "nowcutthatout",
+    "welikeshapes",
+    "royal_flush"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

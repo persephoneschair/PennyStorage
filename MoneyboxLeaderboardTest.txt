@@ -25,6 +25,10 @@
   },
   {
     "playerName": "royal_flush & at_bash",
-    "playerScore": 1800
+    "playerScore": 125
+  },
+  {
+    "playerName": "at_bash & royal_flush",
+    "playerScore": 4000
   }
 ]
