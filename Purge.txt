@@ -56,7 +56,8 @@
     "innisc",
     "clayton_",
     "marc_e54",
-    "flyb0y1"
+    "flyb0y1",
+    "clayton_"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

@@ -51,7 +51,8 @@
     "welikeshapes",
     "innisc",
     "nowcutthatout",
-    "welikeshapes"
+    "welikeshapes",
+    "nordy_goth"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

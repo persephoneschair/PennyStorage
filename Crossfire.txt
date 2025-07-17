@@ -40,7 +40,8 @@
     "cliveoflegend",
     "fluffybunesq",
     "fluidfernando",
-    "jr_plays_games"
+    "jr_plays_games",
+    "mattthespratt"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
