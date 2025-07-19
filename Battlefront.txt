@@ -36,7 +36,8 @@
     "zeusless",
     "nowcutthatout",
     "riffraccoon",
-    "samstersamster"
+    "samstersamster",
+    "bc2014"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

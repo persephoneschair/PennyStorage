@@ -78,8 +78,12 @@
     "welikeshapes",
     "thelupineone",
     "nowcutthatout",
-    "riasu_grem",
-    "mistervurtigo"
+    "vurtiqo",
+    "thelupineone",
+    "marc_e54",
+    "bc2014",
+    "mattthespratt",
+    "royal_flush"
   ],
   "silverMedallists": [
     "abme208",
@@ -163,7 +167,13 @@
     "fluidfernando",
     "fluidfernando",
     "thelupineone",
-    "cliveoflegend"
+    "cliveoflegend",
+    "cliveoflegend",
+    "arunaromatics",
+    "cjbinks",
+    "thelupineone",
+    "marc_e54",
+    "bc2014"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -250,7 +260,11 @@
     "warking14",
     "kollokola",
     "fluffybunesq",
-    "apeminkie"
+    "apeminkie",
+    "bc2014",
+    "jerryeris",
+    "abme208",
+    "cliveoflegend"
   ],
   "lobbyMedallists": []
 }

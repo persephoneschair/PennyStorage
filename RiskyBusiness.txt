@@ -61,7 +61,8 @@
     "samstersamster",
     "kollokola",
     "riffraccoon",
-    "samstersamster"
+    "samstersamster",
+    "michaelm238"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -120,7 +121,8 @@
     "nowcutthatout",
     "bc2014",
     "marc_e54",
-    "oni91_573"
+    "oni91_573",
+    "halian_"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -185,7 +187,8 @@
     "bc2014",
     "flyb0y1",
     "michaelm238",
-    "pljogging"
+    "pljogging",
+    "welikeshapes"
   ],
   "lobbyMedallists": []
 }
