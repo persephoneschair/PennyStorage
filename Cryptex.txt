@@ -51,6 +51,7 @@
     "marc_e54",
     "marc_e54",
     "marc_e54",
+    "marc_e54",
     "marc_e54"
   ],
   "silverMedallists": [
@@ -107,7 +108,8 @@
     "nowcutthatout",
     "samstersamster",
     "innisc",
-    "nowcutthatout"
+    "nowcutthatout",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "apeminkie",
@@ -165,7 +167,8 @@
     "samstersamster",
     "nowcutthatout",
     "samstersamster",
-    "fluidfernando"
+    "fluidfernando",
+    "welikeshapes"
   ],
   "lobbyMedallists": []
 }
