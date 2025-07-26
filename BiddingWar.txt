@@ -28,7 +28,8 @@
     "samstersamster",
     "innisc",
     "thelupineone",
-    "nowcutthatout"
+    "nowcutthatout",
+    "welikeshapes"
   ],
   "silverMedallists": [
     "zeusless",
@@ -59,7 +60,8 @@
     "cliveoflegend",
     "marc_e54",
     "jerryeris",
-    "fluffybunesq"
+    "fluffybunesq",
+    "thelupineone"
   ],
   "bronzeMedallists": [],
   "lobbyMedallists": [
@@ -86,6 +88,7 @@
     "nowcutthatout",
     "sonicelwood",
     "nowcutthatout",
-    "nordy_goth"
+    "nordy_goth",
+    "innisc"
   ]
 }
