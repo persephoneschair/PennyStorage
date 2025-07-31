@@ -38,7 +38,8 @@
     "samstersamster",
     "marc_e54",
     "bc2014",
-    "bc2014"
+    "bc2014",
+    "innisc"
   ],
   "silverMedallists": [
     "abme208",
@@ -78,7 +79,8 @@
     "arunaromatics",
     "bc2014",
     "fluidfernando",
-    "arunaromatics"
+    "arunaromatics",
+    "michaelm238"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -119,7 +121,8 @@
     "thelupineone",
     "flyb0y1",
     "welikeshapes",
-    "paulister"
+    "paulister",
+    "thelupineone"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -163,6 +166,7 @@
     "nowcutthatout",
     "cliveoflegend",
     "riffraccoon",
-    "samstersamster"
+    "samstersamster",
+    "nordy_goth"
   ]
 }

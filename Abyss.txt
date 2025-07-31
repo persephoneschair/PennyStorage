@@ -45,7 +45,8 @@
     "oni91_573",
     "nowcutthatout",
     "nowcutthatout",
-    "michaelm238"
+    "michaelm238",
+    "nordy_goth"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
