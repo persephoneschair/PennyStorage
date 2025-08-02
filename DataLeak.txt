@@ -47,7 +47,8 @@
     "thelupineone",
     "nowcutthatout",
     "innisc",
-    "nowcutthatout"
+    "nowcutthatout",
+    "apodonuevo"
   ],
   "silverMedallists": [
     "innisc",
@@ -97,7 +98,8 @@
     "innisc",
     "innisc",
     "samstersamster",
-    "zeusless"
+    "zeusless",
+    "michaelm238"
   ],
   "bronzeMedallists": [
     "cliveoflegend",
@@ -149,7 +151,8 @@
     "bc2014",
     "samstersamster",
     "welikeshapes",
-    "mattthespratt"
+    "mattthespratt",
+    "abme208"
   ],
   "lobbyMedallists": []
 }
