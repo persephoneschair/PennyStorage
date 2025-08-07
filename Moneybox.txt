@@ -6,7 +6,8 @@
     "opsimaths",
     "cliveoflegend",
     "cursetoucan",
-    "michaelm238"
+    "michaelm238",
+    "nordy_goth"
   ],
   "silverMedallists": [
     "stimpsonsangle",
@@ -15,7 +16,8 @@
     "bc2014",
     "pyropygmy",
     "raceprouk",
-    "cliveoflegend"
+    "cliveoflegend",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "rias_greum",
@@ -24,7 +26,8 @@
     "cliveoflegend",
     "zeusless",
     "veganeklapsengamer",
-    "nordy_goth"
+    "nordy_goth",
+    "stimpsonsangle"
   ],
   "lobbyMedallists": []
 }

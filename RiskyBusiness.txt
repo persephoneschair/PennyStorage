@@ -62,7 +62,8 @@
     "kollokola",
     "riffraccoon",
     "samstersamster",
-    "michaelm238"
+    "michaelm238",
+    "welikeshapes"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -122,7 +123,8 @@
     "bc2014",
     "marc_e54",
     "oni91_573",
-    "halian_"
+    "halian_",
+    "bc2014"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -188,7 +190,8 @@
     "flyb0y1",
     "michaelm238",
     "pljogging",
-    "welikeshapes"
+    "welikeshapes",
+    "michaelm238"
   ],
   "lobbyMedallists": []
 }

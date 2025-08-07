@@ -26,5 +26,9 @@
   {
     "playerName": "royal_flush & at_bash",
     "playerScore": 125
+  },
+  {
+    "playerName": "jr_plays_games & clayton_",
+    "playerScore": 3375
   }
 ]
