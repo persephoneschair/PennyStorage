@@ -68,8 +68,7 @@
     "clayton_",
     "cliveoflegend",
     "kollokola",
-    "thelupineone",
-    "nordy_goth"
+    "thelupineone"
   ],
   "lobbyMedallists": []
 }

@@ -328,7 +328,6 @@
     "marc_e54",
     "riffraccoon",
     "samstersamster",
-    "nordy_goth",
     "flyb0y1",
     "kollokola",
     "michaelm238"

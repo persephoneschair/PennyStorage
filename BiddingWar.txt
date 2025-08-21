@@ -88,7 +88,6 @@
     "nowcutthatout",
     "sonicelwood",
     "nowcutthatout",
-    "nordy_goth",
     "innisc"
   ]
 }
