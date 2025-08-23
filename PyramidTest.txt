@@ -1,1 +1,31 @@
-null
+{
+  "goldMedallists": [
+    "davidjbodycombe",
+    "innisc",
+    "innisc",
+    "lewist1",
+    "lewist1",
+    "nowcutthatout",
+    "nowcutthatout",
+    "nowcutthatout",
+    "oni91_573",
+    "samstersamster",
+    "thelupineone",
+    "welikeshapes",
+    "welikeshapes",
+    "npldart",
+    "derekagony",
+    "derekagony",
+    "derekagony",
+    "marc_e54",
+    "marc_e54",
+    "marc_e54",
+    "lewca_710",
+    "lewca_710",
+    "oddgarrett",
+    "cliveoflegend"
+  ],
+  "silverMedallists": [],
+  "bronzeMedallists": [],
+  "lobbyMedallists": []
+}
