@@ -83,7 +83,6 @@
     "marc_e54",
     "bc2014",
     "mattthespratt",
-    "michaelm238",
     "thelupineone"
   ],
   "silverMedallists": [

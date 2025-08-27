@@ -62,9 +62,7 @@
     "kollokola",
     "riffraccoon",
     "samstersamster",
-    "michaelm238",
-    "welikeshapes",
-    "michaelm238"
+    "welikeshapes"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -119,7 +117,6 @@
     "samstersamster",
     "marc_e54",
     "kollokola",
-    "michaelm238",
     "nowcutthatout",
     "bc2014",
     "marc_e54",
@@ -190,10 +187,8 @@
     "zeusless",
     "bc2014",
     "flyb0y1",
-    "michaelm238",
     "pljogging",
     "welikeshapes",
-    "michaelm238",
     "samstersamster"
   ],
   "lobbyMedallists": []

@@ -5,8 +5,7 @@
     "ardenfetz",
     "opsimaths",
     "cliveoflegend",
-    "cursetoucan",
-    "michaelm238"
+    "cursetoucan"
   ],
   "silverMedallists": [
     "stimpsonsangle",

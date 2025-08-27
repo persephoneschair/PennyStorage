@@ -81,7 +81,6 @@
     "bc2014",
     "fluidfernando",
     "arunaromatics",
-    "michaelm238",
     "samstersamster"
   ],
   "bronzeMedallists": [

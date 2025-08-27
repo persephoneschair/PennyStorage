@@ -100,7 +100,6 @@
     "innisc",
     "samstersamster",
     "zeusless",
-    "michaelm238",
     "nowcutthatout"
   ],
   "bronzeMedallists": [

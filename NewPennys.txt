@@ -1951,12 +1951,6 @@
       "AllTimePennys": 552
     },
     {
-      "PlayerName": "michaelm238",
-      "AuthorCredits": 0,
-      "CurrentSeasonPennys": 22495,
-      "AllTimePennys": 37570
-    },
-    {
       "PlayerName": "milklikesubstance",
       "AuthorCredits": 0,
       "CurrentSeasonPennys": 0,
@@ -2673,8 +2667,8 @@
     {
       "PlayerName": "royal_flush",
       "AuthorCredits": 118,
-      "CurrentSeasonPennys": 1710,
-      "AllTimePennys": 20551
+      "CurrentSeasonPennys": 1810,
+      "AllTimePennys": 20651
     },
     {
       "PlayerName": "royjohnson490",

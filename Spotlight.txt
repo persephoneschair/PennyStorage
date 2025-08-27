@@ -15,8 +15,7 @@
     "welikeshapes",
     "ardenfetz",
     "pyropygmy",
-    "clayton_",
-    "michaelm238"
+    "clayton_"
   ],
   "silverMedallists": [
     "nowcutthatout",

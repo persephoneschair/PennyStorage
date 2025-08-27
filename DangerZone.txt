@@ -329,7 +329,6 @@
     "riffraccoon",
     "samstersamster",
     "flyb0y1",
-    "kollokola",
-    "michaelm238"
+    "kollokola"
   ]
 }
