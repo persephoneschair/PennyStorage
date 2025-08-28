@@ -5,7 +5,8 @@
     "ardenfetz",
     "opsimaths",
     "cliveoflegend",
-    "cursetoucan"
+    "cursetoucan",
+    "bc2014"
   ],
   "silverMedallists": [
     "stimpsonsangle",
@@ -15,7 +16,8 @@
     "pyropygmy",
     "raceprouk",
     "cliveoflegend",
-    "thelupineone"
+    "thelupineone",
+    "fluffybunesq"
   ],
   "bronzeMedallists": [
     "kollokola",
@@ -23,7 +25,8 @@
     "cliveoflegend",
     "zeusless",
     "veganeklapsengamer",
-    "stimpsonsangle"
+    "stimpsonsangle",
+    "solomon_dudley"
   ],
   "lobbyMedallists": []
 }
