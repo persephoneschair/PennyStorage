@@ -93,7 +93,8 @@
     "abme208",
     "bc2014",
     "welikeshapes",
-    "innisc"
+    "innisc",
+    "its_otley_"
   ],
   "silverMedallists": [
     "allylawlawlaw",
@@ -172,7 +173,8 @@
     "innisc",
     "abme208",
     "samstersamster",
-    "cliveoflegend"
+    "cliveoflegend",
+    "jr_plays_games"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -257,7 +259,8 @@
     "bc2014",
     "oni91_573",
     "bc2014",
-    "topper1gaming"
+    "topper1gaming",
+    "maxio68"
   ],
   "lobbyMedallists": [
     "claz0r",
@@ -329,6 +332,7 @@
     "riffraccoon",
     "samstersamster",
     "flyb0y1",
-    "kollokola"
+    "kollokola",
+    "abme208"
   ]
 }

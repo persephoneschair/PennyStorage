@@ -38,7 +38,8 @@
     "riffraccoon",
     "samstersamster",
     "bc2014",
-    "thelupineone"
+    "thelupineone",
+    "kollokola"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

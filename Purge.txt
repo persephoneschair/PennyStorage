@@ -58,7 +58,8 @@
     "marc_e54",
     "flyb0y1",
     "clayton_",
-    "ravenslime64"
+    "ravenslime64",
+    "zeusless"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
