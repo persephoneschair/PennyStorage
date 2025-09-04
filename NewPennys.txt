@@ -1887,8 +1887,8 @@
     {
       "PlayerName": "mattthespratt",
       "AuthorCredits": 1,
-      "CurrentSeasonPennys": 25619,
-      "AllTimePennys": 88060
+      "CurrentSeasonPennys": 25664,
+      "AllTimePennys": 88105
     },
     {
       "PlayerName": "max_e_million",
@@ -3803,12 +3803,6 @@
       "AuthorCredits": 0,
       "CurrentSeasonPennys": 275,
       "AllTimePennys": 275
-    },
-    {
-      "PlayerName": "borisalien",
-      "AuthorCredits": 0,
-      "CurrentSeasonPennys": 45,
-      "AllTimePennys": 45
     },
     {
       "PlayerName": "kaytamine_",
