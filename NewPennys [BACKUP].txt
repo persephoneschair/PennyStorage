@@ -39,8 +39,8 @@
     {
       "PlayerName": "abme208",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 450,
-      "AllTimePennys": 326595
+      "CurrentSeasonPennys": 0,
+      "AllTimePennys": 326145
     },
     {
       "PlayerName": "adamantris",
@@ -567,8 +567,8 @@
     {
       "PlayerName": "colin_so",
       "AuthorCredits": 1,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 102243
+      "CurrentSeasonPennys": 500,
+      "AllTimePennys": 102743
     },
     {
       "PlayerName": "colonel_hans_landa__",
@@ -597,8 +597,8 @@
     {
       "PlayerName": "conradillac",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 57463
+      "CurrentSeasonPennys": 250,
+      "AllTimePennys": 57713
     },
     {
       "PlayerName": "coolio1223",
@@ -627,8 +627,8 @@
     {
       "PlayerName": "cursetoucan",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 45945
+      "CurrentSeasonPennys": 500,
+      "AllTimePennys": 46445
     },
     {
       "PlayerName": "cyanogenoid",
@@ -1281,8 +1281,8 @@
     {
       "PlayerName": "innisc",
       "AuthorCredits": 13,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 143342
+      "CurrentSeasonPennys": 250,
+      "AllTimePennys": 143592
     },
     {
       "PlayerName": "instabrucery",
@@ -2259,8 +2259,8 @@
     {
       "PlayerName": "opsimaths",
       "AuthorCredits": 0,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 65473
+      "CurrentSeasonPennys": 250,
+      "AllTimePennys": 65723
     },
     {
       "PlayerName": "partyofmii",

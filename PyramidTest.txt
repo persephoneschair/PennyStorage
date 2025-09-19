@@ -23,7 +23,8 @@
     "lewca_710",
     "lewca_710",
     "oddgarrett",
-    "cliveoflegend"
+    "zeusless",
+    "pljogging"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
