@@ -206,9 +206,9 @@
     },
     {
       "PlayerName": "arunaromatics",
-      "AuthorCredits": 67,
+      "AuthorCredits": 68,
       "CurrentSeasonPennys": 0,
-      "AllTimePennys": 175960
+      "AllTimePennys": 176060
     },
     {
       "PlayerName": "asetkeyzet",
@@ -3809,12 +3809,6 @@
       "AuthorCredits": 0,
       "CurrentSeasonPennys": 0,
       "AllTimePennys": 600
-    },
-    {
-      "PlayerName": "arunaromatics ",
-      "AuthorCredits": 1,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 100
     }
   ]
 }
