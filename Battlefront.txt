@@ -39,7 +39,8 @@
     "samstersamster",
     "bc2014",
     "thelupineone",
-    "kollokola"
+    "kollokola",
+    "flyb0y1"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

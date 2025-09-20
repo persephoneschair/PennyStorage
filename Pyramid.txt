@@ -23,7 +23,8 @@
     "lewca_710",
     "lewca_710",
     "oddgarrett",
-    "zeusless"
+    "zeusless",
+    "marc_e54"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
