@@ -15,7 +15,9 @@
     "welikeshapes",
     "ardenfetz",
     "pyropygmy",
-    "clayton_"
+    "clayton_",
+    "fluffybunesq",
+    "1234_ideclareathumbwar_"
   ],
   "silverMedallists": [
     "nowcutthatout",
@@ -39,7 +41,8 @@
     "oni91_573",
     "zeusless",
     "topper1gaming",
-    "mattthespratt"
+    "mattthespratt",
+    "solomon_dudley"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -67,7 +70,9 @@
     "clayton_",
     "cliveoflegend",
     "kollokola",
-    "thelupineone"
+    "thelupineone",
+    "stimpsonsangle",
+    "vurtiqo"
   ],
   "lobbyMedallists": []
 }
