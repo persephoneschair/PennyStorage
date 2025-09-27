@@ -1839,8 +1839,8 @@
     {
       "PlayerName": "marc_e54",
       "AuthorCredits": 6,
-      "CurrentSeasonPennys": 8269,
-      "AllTimePennys": 270317
+      "CurrentSeasonPennys": 0,
+      "AllTimePennys": 262048
     },
     {
       "PlayerName": "margarlex",
