@@ -1,0 +1,52 @@
+{
+  "playerList": [
+    {
+      "PlayerName": "royal_flush",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 5000,
+      "AllTimePennys": 5000
+    },
+    {
+      "PlayerName": "Fallenangel0891",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 5000,
+      "AllTimePennys": 5000
+    },
+    {
+      "PlayerName": "Slitherbaron",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 5000,
+      "AllTimePennys": 5000
+    },
+    {
+      "PlayerName": "DigiMoogle",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 5000,
+      "AllTimePennys": 5000
+    },
+    {
+      "PlayerName": "CBK_x",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 5000,
+      "AllTimePennys": 5000
+    },
+    {
+      "PlayerName": "DennisOnTheInternet",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 5000,
+      "AllTimePennys": 5000
+    },
+    {
+      "PlayerName": "steamer10",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 5000,
+      "AllTimePennys": 5000
+    },
+    {
+      "PlayerName": "HIwss",
+      "AuthorCredits": 0,
+      "CurrentSeasonPennys": 5000,
+      "AllTimePennys": 5000
+    }
+  ]
+}
