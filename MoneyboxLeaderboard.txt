@@ -34,5 +34,9 @@
   {
     "playerName": "oni91_573 & praecasts",
     "playerScore": 225
+  },
+  {
+    "playerName": "cliveoflegend & arunaromatics",
+    "playerScore": 150
   }
 ]

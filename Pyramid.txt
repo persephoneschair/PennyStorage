@@ -24,7 +24,8 @@
     "lewca_710",
     "oddgarrett",
     "zeusless",
-    "marc_e54"
+    "marc_e54",
+    "arunaromatics"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
