@@ -44,7 +44,8 @@
     "mattthespratt",
     "jr_plays_games",
     "oni91_573",
-    "ardenfetz"
+    "ardenfetz",
+    "pyropygmy"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
