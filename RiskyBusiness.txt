@@ -63,7 +63,8 @@
     "riffraccoon",
     "samstersamster",
     "welikeshapes",
-    "pljogging"
+    "pljogging",
+    "bc2014"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -126,7 +127,8 @@
     "bc2014",
     "fluffybunesq",
     "oni91_573",
-    "thelupineone"
+    "thelupineone",
+    "zeusless"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -193,7 +195,8 @@
     "pljogging",
     "welikeshapes",
     "samstersamster",
-    "stilghar_tkenn"
+    "stilghar_tkenn",
+    "fluffybunesq"
   ],
   "lobbyMedallists": []
 }

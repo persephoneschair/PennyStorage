@@ -42,7 +42,8 @@
     "innisc",
     "nowcutthatout",
     "zeusless",
-    "principemishkin"
+    "principemishkin",
+    "solomon_dudley"
   ],
   "silverMedallists": [
     "abme208",
@@ -85,7 +86,8 @@
     "arunaromatics",
     "samstersamster",
     "nowcutthatout",
-    "oni91_573"
+    "oni91_573",
+    "samstersamster"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -130,7 +132,8 @@
     "thelupineone",
     "silverelectron",
     "fluidfernando",
-    "samstersamster"
+    "samstersamster",
+    "mattthespratt"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -177,6 +180,7 @@
     "samstersamster",
     "zeusless",
     "solomon_dudley",
-    "cliveoflegend"
+    "cliveoflegend",
+    "welikeshapes"
   ]
 }
