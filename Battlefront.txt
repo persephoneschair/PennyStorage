@@ -41,7 +41,8 @@
     "thelupineone",
     "kollokola",
     "flyb0y1",
-    "abme208"
+    "abme208",
+    "samstersamster"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
