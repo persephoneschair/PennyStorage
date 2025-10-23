@@ -45,7 +45,8 @@
     "jr_plays_games",
     "oni91_573",
     "ardenfetz",
-    "pyropygmy"
+    "pyropygmy",
+    "thelupineone"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
