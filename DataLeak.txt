@@ -50,6 +50,7 @@
     "nowcutthatout",
     "apodonuevo",
     "samstersamster",
+    "nowcutthatout",
     "nowcutthatout"
   ],
   "silverMedallists": [
@@ -102,7 +103,8 @@
     "samstersamster",
     "zeusless",
     "nowcutthatout",
-    "samstersamster"
+    "samstersamster",
+    "zeusless"
   ],
   "bronzeMedallists": [
     "cliveoflegend",
@@ -157,6 +159,8 @@
     "mattthespratt",
     "abme208",
     "welikeshapes",
+    "welikeshapes",
+    "pljogging",
     "welikeshapes"
   ],
   "lobbyMedallists": []
