@@ -42,7 +42,8 @@
     "kollokola",
     "flyb0y1",
     "abme208",
-    "samstersamster"
+    "samstersamster",
+    "the_nekkid_grandma"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
