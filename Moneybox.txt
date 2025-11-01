@@ -7,7 +7,8 @@
     "cliveoflegend",
     "cursetoucan",
     "bc2014",
-    "solomon_dudley"
+    "solomon_dudley",
+    "tvp8polska"
   ],
   "silverMedallists": [
     "stimpsonsangle",
@@ -20,7 +21,8 @@
     "thelupineone",
     "fluffybunesq",
     "woollyback",
-    "kollokola"
+    "kollokola",
+    "fluffybunesq"
   ],
   "bronzeMedallists": [
     "kollokola",
@@ -31,7 +33,8 @@
     "stimpsonsangle",
     "solomon_dudley",
     "colin_so",
-    "conradillac"
+    "conradillac",
+    "ardenfetz"
   ],
   "lobbyMedallists": []
 }

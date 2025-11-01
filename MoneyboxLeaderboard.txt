@@ -38,5 +38,9 @@
   {
     "playerName": "cliveoflegend & arunaromatics",
     "playerScore": 150
+  },
+  {
+    "playerName": "arunaromatics & jackwilfred",
+    "playerScore": 6700
   }
 ]
