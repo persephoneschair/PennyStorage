@@ -25,7 +25,8 @@
     "oddgarrett",
     "zeusless",
     "marc_e54",
-    "arunaromatics"
+    "arunaromatics",
+    "thelupineone"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
