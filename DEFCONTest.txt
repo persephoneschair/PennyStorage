@@ -1,0 +1,8 @@
+{
+  "goldMedallists": [
+    "mattthespratt"
+  ],
+  "silverMedallists": [],
+  "bronzeMedallists": [],
+  "lobbyMedallists": []
+}
