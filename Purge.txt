@@ -61,7 +61,8 @@
     "ravenslime64",
     "zeusless",
     "mattthespratt",
-    "stimpsonsangle"
+    "stimpsonsangle",
+    "zeusless"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

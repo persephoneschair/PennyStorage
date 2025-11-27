@@ -1,6 +1,9 @@
 {
   "goldMedallists": [
-    "mattthespratt"
+    "nowcutthatout",
+    "meempg",
+    "jr_plays_games",
+    "tvp8polska"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

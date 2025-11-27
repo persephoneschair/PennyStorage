@@ -86,7 +86,8 @@
     "thelupineone",
     "marc_e54",
     "flyb0y1",
-    "shadowmanepx41"
+    "shadowmanepx41",
+    "meempg"
   ],
   "silverMedallists": [
     "abme208",
@@ -181,7 +182,8 @@
     "welikeshapes",
     "welikeshapes",
     "ardenfetz",
-    "abme208"
+    "abme208",
+    "cliveoflegend"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -277,7 +279,8 @@
     "abme208",
     "cliveoflegend",
     "fluidfernando",
-    "cliveoflegend"
+    "cliveoflegend",
+    "apodonuevo"
   ],
   "lobbyMedallists": []
 }

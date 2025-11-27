@@ -1,6 +1,9 @@
 {
   "goldMedallists": [
-    "nowcutthatout"
+    "nowcutthatout",
+    "meempg",
+    "jr_plays_games",
+    "woollyback"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
