@@ -8,7 +8,8 @@
     "cursetoucan",
     "bc2014",
     "solomon_dudley",
-    "tvp8polska"
+    "tvp8polska",
+    "the_nekkid_grandma"
   ],
   "silverMedallists": [
     "stimpsonsangle",
@@ -22,7 +23,8 @@
     "fluffybunesq",
     "woollyback",
     "kollokola",
-    "fluffybunesq"
+    "fluffybunesq",
+    "maxio68"
   ],
   "bronzeMedallists": [
     "kollokola",
@@ -34,7 +36,8 @@
     "solomon_dudley",
     "colin_so",
     "conradillac",
-    "ardenfetz"
+    "ardenfetz",
+    "jr_plays_games"
   ],
   "lobbyMedallists": []
 }
