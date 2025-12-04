@@ -1837,12 +1837,6 @@
       "AllTimePennys": 1243
     },
     {
-      "PlayerName": "marc_e54",
-      "AuthorCredits": 6,
-      "CurrentSeasonPennys": 0,
-      "AllTimePennys": 262048
-    },
-    {
       "PlayerName": "margarlex",
       "AuthorCredits": 0,
       "CurrentSeasonPennys": 0,

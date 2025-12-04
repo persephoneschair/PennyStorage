@@ -1,1 +1,15 @@
-{"goldMedallists":["jackwilfred","its_otley_"],"silverMedallists":["eyanyo","pljogging"],"bronzeMedallists":[],"lobbyMedallists":["zeusless","eyanyo"]}
+{
+  "goldMedallists": [
+    "jackwilfred",
+    "its_otley_"
+  ],
+  "silverMedallists": [
+    "eyanyo",
+    "pljogging"
+  ],
+  "bronzeMedallists": [],
+  "lobbyMedallists": [
+    "zeusless",
+    "eyanyo"
+  ]
+}

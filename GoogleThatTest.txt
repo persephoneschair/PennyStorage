@@ -62,7 +62,7 @@
     "samstersamster",
     "marc_e54",
     "bc2014",
-    "topper1gaming"
+    "ucancallmecharlie"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -122,7 +122,7 @@
     "pljogging",
     "vurtiqo",
     "stimpsonsangle",
-    "paulister"
+    "meempg"
   ],
   "bronzeMedallists": [
     "aminthepm99",
@@ -184,7 +184,7 @@
     "pr00gs",
     "cliveoflegend",
     "apeminkie",
-    "royal_flush"
+    "oni91_573"
   ],
   "lobbyMedallists": [
     "abme208",
@@ -218,6 +218,6 @@
     "rottedrapunzel",
     "welikeshapes",
     "welikeshapes",
-    "silentmarine_"
+    "bc2014"
   ]
 }

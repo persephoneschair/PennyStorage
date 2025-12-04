@@ -1,1 +1,658 @@
-[{"playerName":"kollokola","authorName":"oni91_573","difficulty":8.0,"ffTime":1.4,"highestQuestionSeen":15,"finalPrize":1000000},{"playerName":"kollokola","authorName":"royal_flush","difficulty":5.0,"ffTime":11.25,"highestQuestionSeen":15,"finalPrize":1000000},{"playerName":"halian_","authorName":"apeminkie","difficulty":4.0,"ffTime":4.38,"highestQuestionSeen":15,"finalPrize":1000000},{"playerName":"keshihead","authorName":"elias5891","difficulty":6.0,"ffTime":5.95,"highestQuestionSeen":14,"finalPrize":250000},{"playerName":"samstersamster","authorName":"lewist1","difficulty":6.0,"ffTime":5.24,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"shaun3012","authorName":"cliveoflegend","difficulty":5.5,"ffTime":5.92,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"shadowmanepx41","authorName":"apeminkie","difficulty":3.0,"ffTime":10.7,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"dmmjrb","authorName":"samstersamster","difficulty":6.0,"ffTime":9.25,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"connorm27","authorName":"toadboy123","difficulty":6.0,"ffTime":5.77,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"at_bash","authorName":"dmmjrb","difficulty":5.0,"ffTime":7.18,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"cliveoflegend","authorName":"royal_flush","difficulty":5.0,"ffTime":5.44,"highestQuestionSeen":13,"finalPrize":32000},{"playerName":"apeminkie","authorName":"lingomaniac88","difficulty":6.0,"ffTime":5.09,"highestQuestionSeen":12,"finalPrize":32000},{"playerName":"matt_the_ref","authorName":"apeminkie","difficulty":5.0,"ffTime":6.83,"highestQuestionSeen":12,"finalPrize":32000},{"playerName":"keshihead","authorName":"cliveoflegend","difficulty":8.0,"ffTime":6.49,"highestQuestionSeen":11,"finalPrize":32000},{"playerName":"samstersamster","authorName":"setra4271","difficulty":7.0,"ffTime":6.45,"highestQuestionSeen":11,"finalPrize":32000},{"playerName":"matt_the_ref","authorName":"toadboy123","difficulty":6.0,"ffTime":10.77,"highestQuestionSeen":11,"finalPrize":32000},{"playerName":"cliveoflegend","authorName":"aspieadog","difficulty":6.0,"ffTime":4.83,"highestQuestionSeen":11,"finalPrize":32000},{"playerName":"zeusless & innisc","authorName":"oni91_573","difficulty":8.0,"ffTime":5.19,"highestQuestionSeen":10,"finalPrize":16000},{"playerName":"ohay12","authorName":"samstersamster","difficulty":7.0,"ffTime":10.61,"highestQuestionSeen":10,"finalPrize":16000},{"playerName":"keshihead","authorName":"ka_7th","difficulty":10.0,"ffTime":5.27,"highestQuestionSeen":10,"finalPrize":16000},{"playerName":"randomzombie78","authorName":"shadowmanepx41","difficulty":5.0,"ffTime":7.08,"highestQuestionSeen":10,"finalPrize":16000},{"playerName":"lingomaniac88","authorName":"aspieadog","difficulty":4.0,"ffTime":6.77,"highestQuestionSeen":10,"finalPrize":16000},{"playerName":"apeminkie","authorName":"lingomaniac88","difficulty":3.0,"ffTime":5.21,"highestQuestionSeen":10,"finalPrize":16000},{"playerName":"maple_yamanote","authorName":"toshidaru & elias5891","difficulty":7.0,"ffTime":6.65,"highestQuestionSeen":9,"finalPrize":8000},{"playerName":"welikeshapes & innisc","authorName":"dogfish44","difficulty":9.0,"ffTime":6.01,"highestQuestionSeen":7,"finalPrize":1000},{"playerName":"shadowmanepx41","authorName":"procyonyx","difficulty":7.0,"ffTime":5.95,"highestQuestionSeen":7,"finalPrize":1000},{"playerName":"lingomaniac88","authorName":"shadowmanepx41","difficulty":6.5,"ffTime":6.45,"highestQuestionSeen":10,"finalPrize":1000},{"playerName":"innisc","authorName":"lingomaniac88","difficulty":7.5,"ffTime":4.15,"highestQuestionSeen":10,"finalPrize":1000},{"playerName":"matt_the_ref","authorName":"royal_flush","difficulty":8.0,"ffTime":6.71,"highestQuestionSeen":9,"finalPrize":1000},{"playerName":"shadowmanepx41","authorName":"ka_7th","difficulty":6.5,"ffTime":4.33,"highestQuestionSeen":9,"finalPrize":1000},{"playerName":"topper1gaming","authorName":"appelkaas12","difficulty":5.5,"ffTime":6.47,"highestQuestionSeen":9,"finalPrize":1000},{"playerName":"royal_flush","authorName":"mrs_royal_flush","difficulty":5.0,"ffTime":0.0,"highestQuestionSeen":8,"finalPrize":1000},{"playerName":"cyclespace","authorName":"samstersamster","difficulty":7.0,"ffTime":5.58,"highestQuestionSeen":7,"finalPrize":1000},{"playerName":"ajaynokia","authorName":"ka_7th","difficulty":7.0,"ffTime":5.06,"highestQuestionSeen":7,"finalPrize":1000},{"playerName":"at_bash","authorName":"mrs_royal_flush","difficulty":5.0,"ffTime":0.0,"highestQuestionSeen":7,"finalPrize":1000},{"playerName":"toadboy123","authorName":"samstersamster","difficulty":4.0,"ffTime":5.9,"highestQuestionSeen":7,"finalPrize":1000},{"playerName":"brigbother","authorName":"appelkaas12","difficulty":7.5,"ffTime":6.57,"highestQuestionSeen":6,"finalPrize":1000},{"playerName":"thelupineone","authorName":"keshihead","difficulty":5.5,"ffTime":4.82,"highestQuestionSeen":6,"finalPrize":1000},{"playerName":"cliveoflegend","authorName":"eggfriedcheese","difficulty":5.0,"ffTime":4.17,"highestQuestionSeen":6,"finalPrize":1000},{"playerName":"jackwilfred","authorName":"kollokola","difficulty":8.0,"ffTime":5.79,"highestQuestionSeen":5,"finalPrize":0},{"playerName":"lingomaniac88","authorName":"setra4271","difficulty":7.0,"ffTime":6.22,"highestQuestionSeen":5,"finalPrize":0},{"playerName":"cyclespace","authorName":"procyonyx","difficulty":9.0,"ffTime":4.71,"highestQuestionSeen":3,"finalPrize":0},{"playerName":"heydevdev","authorName":"shadowmanepx41","difficulty":7.0,"ffTime":4.27,"highestQuestionSeen":9,"finalPrize":1000},{"playerName":"samstersamster","authorName":"pr00gs","difficulty":7.5,"ffTime":4.35,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"jerryeris","authorName":"oni91_573","difficulty":8.5,"ffTime":4.66,"highestQuestionSeen":6,"finalPrize":1000},{"playerName":"t1pster","authorName":"samisacidic","difficulty":6.5,"ffTime":9.84,"highestQuestionSeen":12,"finalPrize":32000},{"playerName":"bilkyasko","authorName":"arunaromatics","difficulty":4.5,"ffTime":5.31,"highestQuestionSeen":12,"finalPrize":32000},{"playerName":"zeusless","authorName":"lingomaniac88","difficulty":6.5,"ffTime":7.04,"highestQuestionSeen":14,"finalPrize":250000},{"playerName":"milklikesubstance","authorName":"shadowmanepx41","difficulty":0.0,"ffTime":5.68,"highestQuestionSeen":8,"finalPrize":1000},{"playerName":"derekagony","authorName":"samstersamster","difficulty":0.0,"ffTime":4.69,"highestQuestionSeen":14,"finalPrize":250000},{"playerName":"innisc","authorName":"nowcutthatout","difficulty":0.0,"ffTime":4.86,"highestQuestionSeen":8,"finalPrize":1000},{"playerName":"royal_flush","authorName":"oni91_573","difficulty":0.0,"ffTime":0.0,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"samstersamster","authorName":"pr00gs","difficulty":0.0,"ffTime":5.41,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"matt_the_ref","authorName":"pljogging","difficulty":0.0,"ffTime":5.55,"highestQuestionSeen":10,"finalPrize":1000},{"playerName":"oni91_573","authorName":"shadowmanepx41","difficulty":0.0,"ffTime":8.59,"highestQuestionSeen":9,"finalPrize":1000},{"playerName":"its_otley_","authorName":"ka_7th","difficulty":0.0,"ffTime":7.27,"highestQuestionSeen":9,"finalPrize":8000},{"playerName":"paulister","authorName":"oni91_573","difficulty":0.0,"ffTime":9.26,"highestQuestionSeen":6,"finalPrize":1000},{"playerName":"samstersamster & kollokola","authorName":"dogfish44","difficulty":0.0,"ffTime":6.37,"highestQuestionSeen":15,"finalPrize":500000},{"playerName":"topper1gaming & oni91_573","authorName":"samisacidic","difficulty":0.0,"ffTime":4.31,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"bhuang888","authorName":"samisacidic","difficulty":0.0,"ffTime":2.34,"highestQuestionSeen":7,"finalPrize":2000},{"playerName":"arunaromatics","authorName":"its_otley_","difficulty":0.0,"ffTime":10.62,"highestQuestionSeen":13,"finalPrize":32000},{"playerName":"marc_e54","authorName":"salemstowaway","difficulty":0.0,"ffTime":4.24,"highestQuestionSeen":11,"finalPrize":32000},{"playerName":"keglercoach","authorName":"quizface","difficulty":0.0,"ffTime":11.78,"highestQuestionSeen":6,"finalPrize":1000},{"playerName":"pljogging","authorName":"claz0r","difficulty":0.0,"ffTime":4.77,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"innisc","authorName":"samisacidic","difficulty":0.0,"ffTime":11.6,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"natterikh","authorName":"ka_7th","difficulty":0.0,"ffTime":8.85,"highestQuestionSeen":11,"finalPrize":32000},{"playerName":"claz0r","authorName":"oni91_573","difficulty":0.0,"ffTime":7.9,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"jackwilfred","authorName":"samisacidic","difficulty":0.0,"ffTime":4.16,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"arunaromatics","authorName":"nowcutthatout","difficulty":0.0,"ffTime":4.38,"highestQuestionSeen":10,"finalPrize":1000},{"playerName":"pyropygmy","authorName":"kollokola","difficulty":0.0,"ffTime":7.34,"highestQuestionSeen":15,"finalPrize":500000},{"playerName":"marc_e54","authorName":"ka_7th","difficulty":0.0,"ffTime":8.414122,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"topper1gaming","authorName":"mrs_royal_flush","difficulty":0.0,"ffTime":4.48575544,"highestQuestionSeen":10,"finalPrize":1000},{"playerName":"jackwilfred","authorName":"pr00gs","difficulty":0.0,"ffTime":5.151732,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"topper1gaming","authorName":"samisacidic","difficulty":0.0,"ffTime":3.41,"highestQuestionSeen":12,"finalPrize":32000},{"playerName":"oni91_573","authorName":"nowcutthatout","difficulty":0.0,"ffTime":4.7,"highestQuestionSeen":10,"finalPrize":1000},{"playerName":"roarjustice","authorName":"innisc","difficulty":0.0,"ffTime":12.9889965,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"shadowmanepx41","authorName":"pljogging","difficulty":0.0,"ffTime":5.455895,"highestQuestionSeen":11,"finalPrize":32000},{"playerName":"samstersamster","authorName":"samisacidic","difficulty":0.0,"ffTime":0.0,"highestQuestionSeen":13,"finalPrize":125000},{"playerName":"topper1gaming","authorName":"shadowmanepx41","difficulty":0.0,"ffTime":4.35280943,"highestQuestionSeen":12,"finalPrize":64000},{"playerName":"oni91_573","authorName":"mrs_royal_flush","difficulty":0.0,"ffTime":7.64961338,"highestQuestionSeen":10,"finalPrize":1000},{"playerName":"praestreams","authorName":"pljogging","difficulty":0.0,"ffTime":4.382458,"highestQuestionSeen":11,"finalPrize":32000},{"playerName":"oni91_573","authorName":"samstersamster","difficulty":0.0,"ffTime":5.205097,"highestQuestionSeen":12,"finalPrize":32000},{"playerName":"arunaromatics","authorName":"its_otley_","difficulty":0.0,"ffTime":5.73521328,"highestQuestionSeen":14,"finalPrize":32000},{"playerName":"heydevdev","authorName":"shadowmanepx41","difficulty":0.0,"ffTime":2.81596684,"highestQuestionSeen":13,"finalPrize":125000}]
+[
+  {
+    "playerName": "kollokola",
+    "authorName": "oni91_573",
+    "difficulty": 8.0,
+    "ffTime": 1.4,
+    "highestQuestionSeen": 15,
+    "finalPrize": 1000000
+  },
+  {
+    "playerName": "kollokola",
+    "authorName": "royal_flush",
+    "difficulty": 5.0,
+    "ffTime": 11.25,
+    "highestQuestionSeen": 15,
+    "finalPrize": 1000000
+  },
+  {
+    "playerName": "halian_",
+    "authorName": "apeminkie",
+    "difficulty": 4.0,
+    "ffTime": 4.38,
+    "highestQuestionSeen": 15,
+    "finalPrize": 1000000
+  },
+  {
+    "playerName": "keshihead",
+    "authorName": "elias5891",
+    "difficulty": 6.0,
+    "ffTime": 5.95,
+    "highestQuestionSeen": 14,
+    "finalPrize": 250000
+  },
+  {
+    "playerName": "samstersamster",
+    "authorName": "lewist1",
+    "difficulty": 6.0,
+    "ffTime": 5.24,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "shaun3012",
+    "authorName": "cliveoflegend",
+    "difficulty": 5.5,
+    "ffTime": 5.92,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "shadowmanepx41",
+    "authorName": "apeminkie",
+    "difficulty": 3.0,
+    "ffTime": 10.7,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "dmmjrb",
+    "authorName": "samstersamster",
+    "difficulty": 6.0,
+    "ffTime": 9.25,
+    "highestQuestionSeen": 12,
+    "finalPrize": 64000
+  },
+  {
+    "playerName": "connorm27",
+    "authorName": "toadboy123",
+    "difficulty": 6.0,
+    "ffTime": 5.77,
+    "highestQuestionSeen": 12,
+    "finalPrize": 64000
+  },
+  {
+    "playerName": "at_bash",
+    "authorName": "dmmjrb",
+    "difficulty": 5.0,
+    "ffTime": 7.18,
+    "highestQuestionSeen": 12,
+    "finalPrize": 64000
+  },
+  {
+    "playerName": "cliveoflegend",
+    "authorName": "royal_flush",
+    "difficulty": 5.0,
+    "ffTime": 5.44,
+    "highestQuestionSeen": 13,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "apeminkie",
+    "authorName": "lingomaniac88",
+    "difficulty": 6.0,
+    "ffTime": 5.09,
+    "highestQuestionSeen": 12,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "matt_the_ref",
+    "authorName": "apeminkie",
+    "difficulty": 5.0,
+    "ffTime": 6.83,
+    "highestQuestionSeen": 12,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "keshihead",
+    "authorName": "cliveoflegend",
+    "difficulty": 8.0,
+    "ffTime": 6.49,
+    "highestQuestionSeen": 11,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "samstersamster",
+    "authorName": "setra4271",
+    "difficulty": 7.0,
+    "ffTime": 6.45,
+    "highestQuestionSeen": 11,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "matt_the_ref",
+    "authorName": "toadboy123",
+    "difficulty": 6.0,
+    "ffTime": 10.77,
+    "highestQuestionSeen": 11,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "cliveoflegend",
+    "authorName": "aspieadog",
+    "difficulty": 6.0,
+    "ffTime": 4.83,
+    "highestQuestionSeen": 11,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "zeusless & innisc",
+    "authorName": "oni91_573",
+    "difficulty": 8.0,
+    "ffTime": 5.19,
+    "highestQuestionSeen": 10,
+    "finalPrize": 16000
+  },
+  {
+    "playerName": "ohay12",
+    "authorName": "samstersamster",
+    "difficulty": 7.0,
+    "ffTime": 10.61,
+    "highestQuestionSeen": 10,
+    "finalPrize": 16000
+  },
+  {
+    "playerName": "keshihead",
+    "authorName": "ka_7th",
+    "difficulty": 10.0,
+    "ffTime": 5.27,
+    "highestQuestionSeen": 10,
+    "finalPrize": 16000
+  },
+  {
+    "playerName": "randomzombie78",
+    "authorName": "shadowmanepx41",
+    "difficulty": 5.0,
+    "ffTime": 7.08,
+    "highestQuestionSeen": 10,
+    "finalPrize": 16000
+  },
+  {
+    "playerName": "lingomaniac88",
+    "authorName": "aspieadog",
+    "difficulty": 4.0,
+    "ffTime": 6.77,
+    "highestQuestionSeen": 10,
+    "finalPrize": 16000
+  },
+  {
+    "playerName": "apeminkie",
+    "authorName": "lingomaniac88",
+    "difficulty": 3.0,
+    "ffTime": 5.21,
+    "highestQuestionSeen": 10,
+    "finalPrize": 16000
+  },
+  {
+    "playerName": "maple_yamanote",
+    "authorName": "toshidaru & elias5891",
+    "difficulty": 7.0,
+    "ffTime": 6.65,
+    "highestQuestionSeen": 9,
+    "finalPrize": 8000
+  },
+  {
+    "playerName": "welikeshapes & innisc",
+    "authorName": "dogfish44",
+    "difficulty": 9.0,
+    "ffTime": 6.01,
+    "highestQuestionSeen": 7,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "shadowmanepx41",
+    "authorName": "procyonyx",
+    "difficulty": 7.0,
+    "ffTime": 5.95,
+    "highestQuestionSeen": 7,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "lingomaniac88",
+    "authorName": "shadowmanepx41",
+    "difficulty": 6.5,
+    "ffTime": 6.45,
+    "highestQuestionSeen": 10,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "innisc",
+    "authorName": "lingomaniac88",
+    "difficulty": 7.5,
+    "ffTime": 4.15,
+    "highestQuestionSeen": 10,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "matt_the_ref",
+    "authorName": "royal_flush",
+    "difficulty": 8.0,
+    "ffTime": 6.71,
+    "highestQuestionSeen": 9,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "shadowmanepx41",
+    "authorName": "ka_7th",
+    "difficulty": 6.5,
+    "ffTime": 4.33,
+    "highestQuestionSeen": 9,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "topper1gaming",
+    "authorName": "appelkaas12",
+    "difficulty": 5.5,
+    "ffTime": 6.47,
+    "highestQuestionSeen": 9,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "royal_flush",
+    "authorName": "mrs_royal_flush",
+    "difficulty": 5.0,
+    "ffTime": 0.0,
+    "highestQuestionSeen": 8,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "cyclespace",
+    "authorName": "samstersamster",
+    "difficulty": 7.0,
+    "ffTime": 5.58,
+    "highestQuestionSeen": 7,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "ajaynokia",
+    "authorName": "ka_7th",
+    "difficulty": 7.0,
+    "ffTime": 5.06,
+    "highestQuestionSeen": 7,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "at_bash",
+    "authorName": "mrs_royal_flush",
+    "difficulty": 5.0,
+    "ffTime": 0.0,
+    "highestQuestionSeen": 7,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "toadboy123",
+    "authorName": "samstersamster",
+    "difficulty": 4.0,
+    "ffTime": 5.9,
+    "highestQuestionSeen": 7,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "brigbother",
+    "authorName": "appelkaas12",
+    "difficulty": 7.5,
+    "ffTime": 6.57,
+    "highestQuestionSeen": 6,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "thelupineone",
+    "authorName": "keshihead",
+    "difficulty": 5.5,
+    "ffTime": 4.82,
+    "highestQuestionSeen": 6,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "cliveoflegend",
+    "authorName": "eggfriedcheese",
+    "difficulty": 5.0,
+    "ffTime": 4.17,
+    "highestQuestionSeen": 6,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "jackwilfred",
+    "authorName": "kollokola",
+    "difficulty": 8.0,
+    "ffTime": 5.79,
+    "highestQuestionSeen": 5,
+    "finalPrize": 0
+  },
+  {
+    "playerName": "lingomaniac88",
+    "authorName": "setra4271",
+    "difficulty": 7.0,
+    "ffTime": 6.22,
+    "highestQuestionSeen": 5,
+    "finalPrize": 0
+  },
+  {
+    "playerName": "cyclespace",
+    "authorName": "procyonyx",
+    "difficulty": 9.0,
+    "ffTime": 4.71,
+    "highestQuestionSeen": 3,
+    "finalPrize": 0
+  },
+  {
+    "playerName": "heydevdev",
+    "authorName": "shadowmanepx41",
+    "difficulty": 7.0,
+    "ffTime": 4.27,
+    "highestQuestionSeen": 9,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "samstersamster",
+    "authorName": "pr00gs",
+    "difficulty": 7.5,
+    "ffTime": 4.35,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "jerryeris",
+    "authorName": "oni91_573",
+    "difficulty": 8.5,
+    "ffTime": 4.66,
+    "highestQuestionSeen": 6,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "t1pster",
+    "authorName": "samisacidic",
+    "difficulty": 6.5,
+    "ffTime": 9.84,
+    "highestQuestionSeen": 12,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "bilkyasko",
+    "authorName": "arunaromatics",
+    "difficulty": 4.5,
+    "ffTime": 5.31,
+    "highestQuestionSeen": 12,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "zeusless",
+    "authorName": "lingomaniac88",
+    "difficulty": 6.5,
+    "ffTime": 7.04,
+    "highestQuestionSeen": 14,
+    "finalPrize": 250000
+  },
+  {
+    "playerName": "milklikesubstance",
+    "authorName": "shadowmanepx41",
+    "difficulty": 0.0,
+    "ffTime": 5.68,
+    "highestQuestionSeen": 8,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "derekagony",
+    "authorName": "samstersamster",
+    "difficulty": 0.0,
+    "ffTime": 4.69,
+    "highestQuestionSeen": 14,
+    "finalPrize": 250000
+  },
+  {
+    "playerName": "innisc",
+    "authorName": "nowcutthatout",
+    "difficulty": 0.0,
+    "ffTime": 4.86,
+    "highestQuestionSeen": 8,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "royal_flush",
+    "authorName": "oni91_573",
+    "difficulty": 0.0,
+    "ffTime": 0.0,
+    "highestQuestionSeen": 12,
+    "finalPrize": 64000
+  },
+  {
+    "playerName": "samstersamster",
+    "authorName": "pr00gs",
+    "difficulty": 0.0,
+    "ffTime": 5.41,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "matt_the_ref",
+    "authorName": "pljogging",
+    "difficulty": 0.0,
+    "ffTime": 5.55,
+    "highestQuestionSeen": 10,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "oni91_573",
+    "authorName": "shadowmanepx41",
+    "difficulty": 0.0,
+    "ffTime": 8.59,
+    "highestQuestionSeen": 9,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "its_otley_",
+    "authorName": "ka_7th",
+    "difficulty": 0.0,
+    "ffTime": 7.27,
+    "highestQuestionSeen": 9,
+    "finalPrize": 8000
+  },
+  {
+    "playerName": "paulister",
+    "authorName": "oni91_573",
+    "difficulty": 0.0,
+    "ffTime": 9.26,
+    "highestQuestionSeen": 6,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "samstersamster & kollokola",
+    "authorName": "dogfish44",
+    "difficulty": 0.0,
+    "ffTime": 6.37,
+    "highestQuestionSeen": 15,
+    "finalPrize": 500000
+  },
+  {
+    "playerName": "topper1gaming & oni91_573",
+    "authorName": "samisacidic",
+    "difficulty": 0.0,
+    "ffTime": 4.31,
+    "highestQuestionSeen": 12,
+    "finalPrize": 64000
+  },
+  {
+    "playerName": "bhuang888",
+    "authorName": "samisacidic",
+    "difficulty": 0.0,
+    "ffTime": 2.34,
+    "highestQuestionSeen": 7,
+    "finalPrize": 2000
+  },
+  {
+    "playerName": "arunaromatics",
+    "authorName": "its_otley_",
+    "difficulty": 0.0,
+    "ffTime": 10.62,
+    "highestQuestionSeen": 13,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "keglercoach",
+    "authorName": "quizface",
+    "difficulty": 0.0,
+    "ffTime": 11.78,
+    "highestQuestionSeen": 6,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "pljogging",
+    "authorName": "claz0r",
+    "difficulty": 0.0,
+    "ffTime": 4.77,
+    "highestQuestionSeen": 12,
+    "finalPrize": 64000
+  },
+  {
+    "playerName": "innisc",
+    "authorName": "samisacidic",
+    "difficulty": 0.0,
+    "ffTime": 11.6,
+    "highestQuestionSeen": 12,
+    "finalPrize": 64000
+  },
+  {
+    "playerName": "natterikh",
+    "authorName": "ka_7th",
+    "difficulty": 0.0,
+    "ffTime": 8.85,
+    "highestQuestionSeen": 11,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "claz0r",
+    "authorName": "oni91_573",
+    "difficulty": 0.0,
+    "ffTime": 7.9,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "jackwilfred",
+    "authorName": "samisacidic",
+    "difficulty": 0.0,
+    "ffTime": 4.16,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "arunaromatics",
+    "authorName": "nowcutthatout",
+    "difficulty": 0.0,
+    "ffTime": 4.38,
+    "highestQuestionSeen": 10,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "pyropygmy",
+    "authorName": "kollokola",
+    "difficulty": 0.0,
+    "ffTime": 7.34,
+    "highestQuestionSeen": 15,
+    "finalPrize": 500000
+  },
+  {
+    "playerName": "topper1gaming",
+    "authorName": "mrs_royal_flush",
+    "difficulty": 0.0,
+    "ffTime": 4.48575544,
+    "highestQuestionSeen": 10,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "jackwilfred",
+    "authorName": "pr00gs",
+    "difficulty": 0.0,
+    "ffTime": 5.151732,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "topper1gaming",
+    "authorName": "samisacidic",
+    "difficulty": 0.0,
+    "ffTime": 3.41,
+    "highestQuestionSeen": 12,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "oni91_573",
+    "authorName": "nowcutthatout",
+    "difficulty": 0.0,
+    "ffTime": 4.7,
+    "highestQuestionSeen": 10,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "roarjustice",
+    "authorName": "innisc",
+    "difficulty": 0.0,
+    "ffTime": 12.9889965,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "shadowmanepx41",
+    "authorName": "pljogging",
+    "difficulty": 0.0,
+    "ffTime": 5.455895,
+    "highestQuestionSeen": 11,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "samstersamster",
+    "authorName": "samisacidic",
+    "difficulty": 0.0,
+    "ffTime": 0.0,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  },
+  {
+    "playerName": "topper1gaming",
+    "authorName": "shadowmanepx41",
+    "difficulty": 0.0,
+    "ffTime": 4.35280943,
+    "highestQuestionSeen": 12,
+    "finalPrize": 64000
+  },
+  {
+    "playerName": "oni91_573",
+    "authorName": "mrs_royal_flush",
+    "difficulty": 0.0,
+    "ffTime": 7.64961338,
+    "highestQuestionSeen": 10,
+    "finalPrize": 1000
+  },
+  {
+    "playerName": "praestreams",
+    "authorName": "pljogging",
+    "difficulty": 0.0,
+    "ffTime": 4.382458,
+    "highestQuestionSeen": 11,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "oni91_573",
+    "authorName": "samstersamster",
+    "difficulty": 0.0,
+    "ffTime": 5.205097,
+    "highestQuestionSeen": 12,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "arunaromatics",
+    "authorName": "its_otley_",
+    "difficulty": 0.0,
+    "ffTime": 5.73521328,
+    "highestQuestionSeen": 14,
+    "finalPrize": 32000
+  },
+  {
+    "playerName": "heydevdev",
+    "authorName": "shadowmanepx41",
+    "difficulty": 0.0,
+    "ffTime": 2.81596684,
+    "highestQuestionSeen": 13,
+    "finalPrize": 125000
+  }
+]
