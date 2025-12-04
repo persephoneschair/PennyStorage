@@ -22,7 +22,8 @@
     "oddgarrett",
     "zeusless",
     "arunaromatics",
-    "thelupineone"
+    "thelupineone",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
