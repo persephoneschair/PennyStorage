@@ -44,7 +44,8 @@
     "ardenfetz",
     "pyropygmy",
     "thelupineone",
-    "fluffybunesq"
+    "fluffybunesq",
+    "bc2014"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
