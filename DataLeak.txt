@@ -50,6 +50,8 @@
     "samstersamster",
     "nowcutthatout",
     "nowcutthatout",
+    "samstersamster",
+    "mattthespratt",
     "samstersamster"
   ],
   "silverMedallists": [
@@ -101,7 +103,9 @@
     "nowcutthatout",
     "samstersamster",
     "zeusless",
-    "thelupineone"
+    "thelupineone",
+    "cliveoflegend",
+    "welikeshapes"
   ],
   "bronzeMedallists": [
     "cliveoflegend",
@@ -154,7 +158,11 @@
     "welikeshapes",
     "pljogging",
     "welikeshapes",
-    "nowcutthatout"
+    "nowcutthatout",
+    "brisbe7398",
+    "jr_plays_games",
+    "kollokola",
+    "thelupineone"
   ],
   "lobbyMedallists": []
 }
