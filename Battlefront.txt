@@ -41,7 +41,8 @@
     "flyb0y1",
     "abme208",
     "samstersamster",
-    "the_nekkid_grandma"
+    "the_nekkid_grandma",
+    "apeminkie"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
