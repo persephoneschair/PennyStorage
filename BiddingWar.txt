@@ -32,7 +32,8 @@
     "welikeshapes",
     "nowcutthatout",
     "nowcutthatout",
-    "samstersamster"
+    "samstersamster",
+    "nowcutthatout"
   ],
   "silverMedallists": [
     "zeusless",
@@ -66,7 +67,8 @@
     "thelupineone",
     "samstersamster",
     "welikeshapes",
-    "thelupineone"
+    "thelupineone",
+    "arunaromatics"
   ],
   "bronzeMedallists": [],
   "lobbyMedallists": [
@@ -94,6 +96,7 @@
     "innisc",
     "welikeshapes",
     "cliveoflegend",
-    "welikeshapes"
+    "welikeshapes",
+    "samstersamster"
   ]
 }

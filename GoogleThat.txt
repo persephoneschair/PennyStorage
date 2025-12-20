@@ -57,7 +57,8 @@
     "samstersamster",
     "samstersamster",
     "bc2014",
-    "bc2014"
+    "bc2014",
+    "riffraccoon"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -114,7 +115,8 @@
     "pljogging",
     "vurtiqo",
     "stimpsonsangle",
-    "stimpsonsangle"
+    "stimpsonsangle",
+    "cliveoflegend"
   ],
   "bronzeMedallists": [
     "aminthepm99",
@@ -175,7 +177,8 @@
     "pr00gs",
     "cliveoflegend",
     "apeminkie",
-    "abme208"
+    "abme208",
+    "fluidfernando"
   ],
   "lobbyMedallists": [
     "abme208",
@@ -207,6 +210,7 @@
     "rottedrapunzel",
     "welikeshapes",
     "welikeshapes",
-    "woollyback"
+    "woollyback",
+    "bc2014"
   ]
 }
