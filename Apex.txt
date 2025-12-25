@@ -1,0 +1,8 @@
+{
+  "goldMedallists": [
+    "conradillac"
+  ],
+  "silverMedallists": [],
+  "bronzeMedallists": [],
+  "lobbyMedallists": []
+}
