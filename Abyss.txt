@@ -39,7 +39,8 @@
     "nowcutthatout",
     "nowcutthatout",
     "nowcutthatout",
-    "welikeshapes"
+    "welikeshapes",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
