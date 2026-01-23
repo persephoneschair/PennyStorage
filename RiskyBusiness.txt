@@ -62,7 +62,8 @@
     "welikeshapes",
     "pljogging",
     "bc2014",
-    "cliveoflegend"
+    "cliveoflegend",
+    "ardenfetz"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -122,7 +123,8 @@
     "thelupineone",
     "zeusless",
     "jr_plays_games",
-    "keglercoach"
+    "keglercoach",
+    "arunaromatics"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -189,7 +191,8 @@
     "samstersamster",
     "stilghar_tkenn",
     "fluffybunesq",
-    "samstersamster"
+    "samstersamster",
+    "flyb0y1"
   ],
   "lobbyMedallists": []
 }
