@@ -59,7 +59,8 @@
     "mattthespratt",
     "stimpsonsangle",
     "zeusless",
-    "zeusless"
+    "zeusless",
+    "viator_james"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

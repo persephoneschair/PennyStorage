@@ -42,7 +42,8 @@
     "abme208",
     "samstersamster",
     "the_nekkid_grandma",
-    "apeminkie"
+    "apeminkie",
+    "arunaromatics"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
