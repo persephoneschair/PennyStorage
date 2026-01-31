@@ -53,7 +53,8 @@
     "samstersamster",
     "mattthespratt",
     "samstersamster",
-    "welikeshapes"
+    "welikeshapes",
+    "nowcutthatout"
   ],
   "silverMedallists": [
     "innisc",
@@ -107,7 +108,9 @@
     "thelupineone",
     "cliveoflegend",
     "welikeshapes",
-    "nowcutthatout"
+    "nowcutthatout",
+    "oni91_573",
+    "welikeshapes"
   ],
   "bronzeMedallists": [
     "cliveoflegend",
@@ -166,6 +169,7 @@
     "kollokola",
     "thelupineone",
     "apeminkie",
+    "thelupineone",
     "thelupineone"
   ],
   "lobbyMedallists": []

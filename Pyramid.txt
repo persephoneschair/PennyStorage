@@ -23,7 +23,8 @@
     "zeusless",
     "arunaromatics",
     "thelupineone",
-    "nowcutthatout"
+    "nowcutthatout",
+    "zeusless"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
