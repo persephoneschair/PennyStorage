@@ -85,7 +85,8 @@
     "shadowmanepx41",
     "meempg",
     "colin_so",
-    "thebeachannel"
+    "thebeachannel",
+    "nowcutthatout"
   ],
   "silverMedallists": [
     "abme208",
@@ -179,6 +180,7 @@
     "abme208",
     "cliveoflegend",
     "kollokola",
+    "oni91_573",
     "oni91_573"
   ],
   "bronzeMedallists": [
@@ -275,7 +277,8 @@
     "cliveoflegend",
     "apodonuevo",
     "cliveoflegend",
-    "thelupineone"
+    "thelupineone",
+    "pljogging"
   ],
   "lobbyMedallists": []
 }
