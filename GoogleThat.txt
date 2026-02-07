@@ -59,7 +59,8 @@
     "bc2014",
     "bc2014",
     "riffraccoon",
-    "jerryeris"
+    "jerryeris",
+    "cliveoflegend"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -118,7 +119,8 @@
     "stimpsonsangle",
     "stimpsonsangle",
     "cliveoflegend",
-    "ardenfetz"
+    "ardenfetz",
+    "riffraccoon"
   ],
   "bronzeMedallists": [
     "aminthepm99",
@@ -181,7 +183,8 @@
     "apeminkie",
     "abme208",
     "fluidfernando",
-    "flyb0y1"
+    "flyb0y1",
+    "thelupineone"
   ],
   "lobbyMedallists": [
     "abme208",
@@ -215,6 +218,7 @@
     "welikeshapes",
     "woollyback",
     "bc2014",
-    "kollokola"
+    "kollokola",
+    "fluidfernando"
   ]
 }
