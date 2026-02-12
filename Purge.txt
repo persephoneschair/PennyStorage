@@ -60,7 +60,8 @@
     "stimpsonsangle",
     "zeusless",
     "zeusless",
-    "viator_james"
+    "viator_james",
+    "riffraccoon"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
