@@ -1,8 +1,15 @@
 {
   "goldMedallists": [
-    "conradillac"
+    "conradillac",
+    "flyb0y1"
   ],
-  "silverMedallists": [],
-  "bronzeMedallists": [],
+  "silverMedallists": [
+    "cliveoflegend",
+    "woollyback"
+  ],
+  "bronzeMedallists": [
+    "keglercoach",
+    "abme208"
+  ],
   "lobbyMedallists": []
 }

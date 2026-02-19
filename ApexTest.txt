@@ -1,8 +1,15 @@
 {
   "goldMedallists": [
-    "jr_plays_games"
+    "conradillac",
+    "royal_flush"
   ],
-  "silverMedallists": [],
-  "bronzeMedallists": [],
+  "silverMedallists": [
+    "cliveoflegend",
+    "nikoheart"
+  ],
+  "bronzeMedallists": [
+    "keglercoach",
+    "flyb0y1"
+  ],
   "lobbyMedallists": []
 }
