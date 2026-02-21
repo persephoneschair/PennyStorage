@@ -6,7 +6,8 @@
     "woollyback",
     "topper1gaming",
     "silverelectron",
-    "abme208"
+    "abme208",
+    "samstersamster"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
