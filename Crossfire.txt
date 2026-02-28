@@ -47,7 +47,8 @@
     "fluffybunesq",
     "bc2014",
     "bc2014",
-    "abme208"
+    "abme208",
+    "woollyback"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
