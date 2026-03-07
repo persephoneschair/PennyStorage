@@ -9,7 +9,8 @@
     "bc2014",
     "solomon_dudley",
     "tvp8polska",
-    "the_nekkid_grandma"
+    "the_nekkid_grandma",
+    "oni91_573"
   ],
   "silverMedallists": [
     "stimpsonsangle",
@@ -24,7 +25,8 @@
     "woollyback",
     "kollokola",
     "fluffybunesq",
-    "maxio68"
+    "maxio68",
+    "jr_plays_games"
   ],
   "bronzeMedallists": [
     "kollokola",
@@ -37,7 +39,8 @@
     "colin_so",
     "conradillac",
     "ardenfetz",
-    "jr_plays_games"
+    "jr_plays_games",
+    "zeusless"
   ],
   "lobbyMedallists": []
 }

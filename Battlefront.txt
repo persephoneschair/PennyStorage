@@ -43,7 +43,8 @@
     "samstersamster",
     "the_nekkid_grandma",
     "apeminkie",
-    "arunaromatics"
+    "arunaromatics",
+    "fluidfernando"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

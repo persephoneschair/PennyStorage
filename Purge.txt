@@ -61,7 +61,8 @@
     "zeusless",
     "zeusless",
     "viator_james",
-    "riffraccoon"
+    "riffraccoon",
+    "samstersamster"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
