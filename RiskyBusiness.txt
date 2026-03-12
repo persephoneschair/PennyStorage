@@ -64,7 +64,8 @@
     "bc2014",
     "cliveoflegend",
     "ardenfetz",
-    "flyb0y1"
+    "flyb0y1",
+    "riffraccoon"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -126,7 +127,8 @@
     "jr_plays_games",
     "keglercoach",
     "arunaromatics",
-    "pljogging"
+    "pljogging",
+    "welikeshapes"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -195,7 +197,8 @@
     "fluffybunesq",
     "samstersamster",
     "flyb0y1",
-    "thelupineone"
+    "thelupineone",
+    "fluidfernando"
   ],
   "lobbyMedallists": []
 }
