@@ -2,17 +2,20 @@
   "goldMedallists": [
     "conradillac",
     "flyb0y1",
-    "claz0r"
+    "claz0r",
+    "cliveoflegend"
   ],
   "silverMedallists": [
     "cliveoflegend",
     "woollyback",
-    "oni91_573"
+    "oni91_573",
+    "kollokola"
   ],
   "bronzeMedallists": [
     "keglercoach",
     "abme208",
-    "jackwilfred"
+    "jackwilfred",
+    "mattthespratt"
   ],
   "lobbyMedallists": []
 }
