@@ -67,7 +67,8 @@
     "flyb0y1",
     "riffraccoon",
     "fluidfernando",
-    "riffraccoon"
+    "riffraccoon",
+    "samstersamster"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -131,7 +132,8 @@
     "arunaromatics",
     "pljogging",
     "welikeshapes",
-    "jr_plays_games"
+    "jr_plays_games",
+    "bc2014"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -202,7 +204,8 @@
     "flyb0y1",
     "thelupineone",
     "fluidfernando",
-    "abme208"
+    "abme208",
+    "oni91_573"
   ],
   "lobbyMedallists": []
 }
