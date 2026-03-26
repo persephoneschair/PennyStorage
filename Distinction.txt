@@ -46,7 +46,8 @@
     "zeusless",
     "samstersamster",
     "viator_james",
-    "nowcutthatout"
+    "nowcutthatout",
+    "samstersamster"
   ],
   "silverMedallists": [
     "abme208",
@@ -96,7 +97,8 @@
     "bc2014",
     "nowcutthatout",
     "oni91_573",
-    "flyb0y1"
+    "flyb0y1",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -146,7 +148,8 @@
     "thelupineone",
     "cliveoflegend",
     "bc2014",
-    "vurtiqo"
+    "vurtiqo",
+    "nowcutthatout"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -199,6 +202,7 @@
     "samstersamster",
     "kollokola",
     "arunaromatics",
-    "bc2014"
+    "bc2014",
+    "effrontery"
   ]
 }
