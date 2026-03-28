@@ -60,7 +60,6 @@
     "stimpsonsangle",
     "zeusless",
     "zeusless",
-    "viator_james",
     "riffraccoon",
     "samstersamster"
   ],

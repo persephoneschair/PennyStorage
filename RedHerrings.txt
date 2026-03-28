@@ -85,7 +85,6 @@
     "shadowmanepx41",
     "meempg",
     "colin_so",
-    "thebeachannel",
     "nowcutthatout",
     "nowcutthatout",
     "jr_plays_games"

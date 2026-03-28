@@ -3871,22 +3871,10 @@
       "AllTimePennys": 428
     },
     {
-      "PlayerName": "thebeachannel",
-      "AuthorCredits": 0,
-      "CurrentSeasonPennys": 17244,
-      "AllTimePennys": 17244
-    },
-    {
       "PlayerName": "aegeusblackmane",
       "AuthorCredits": 0,
       "CurrentSeasonPennys": 1235,
       "AllTimePennys": 1235
-    },
-    {
-      "PlayerName": "viator_james",
-      "AuthorCredits": 0,
-      "CurrentSeasonPennys": 12898,
-      "AllTimePennys": 12898
     },
     {
       "PlayerName": "fshftw",
