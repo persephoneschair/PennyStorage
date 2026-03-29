@@ -61,7 +61,8 @@
     "zeusless",
     "zeusless",
     "riffraccoon",
-    "samstersamster"
+    "samstersamster",
+    "natterikh"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

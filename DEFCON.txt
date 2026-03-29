@@ -7,7 +7,8 @@
     "topper1gaming",
     "silverelectron",
     "abme208",
-    "samstersamster"
+    "samstersamster",
+    "bc2014"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
