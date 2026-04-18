@@ -54,7 +54,8 @@
     "nowcutthatout",
     "oni91_573",
     "bc2014",
-    "oni91_573"
+    "oni91_573",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

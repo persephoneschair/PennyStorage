@@ -1,0 +1,12 @@
+{
+  "goldMedallists": [
+    "nowcutthatout"
+  ],
+  "silverMedallists": [
+    "ogbungle69"
+  ],
+  "bronzeMedallists": [
+    "fluidfernando"
+  ],
+  "lobbyMedallists": []
+}
