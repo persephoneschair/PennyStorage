@@ -3,19 +3,22 @@
     "conradillac",
     "flyb0y1",
     "claz0r",
-    "cliveoflegend"
+    "cliveoflegend",
+    "zeusless"
   ],
   "silverMedallists": [
     "cliveoflegend",
     "woollyback",
     "oni91_573",
-    "kollokola"
+    "kollokola",
+    "apodonuevo"
   ],
   "bronzeMedallists": [
     "keglercoach",
     "abme208",
     "jackwilfred",
-    "mattthespratt"
+    "mattthespratt",
+    "silverelectron"
   ],
   "lobbyMedallists": []
 }
