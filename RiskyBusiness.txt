@@ -68,6 +68,7 @@
     "riffraccoon",
     "fluidfernando",
     "riffraccoon",
+    "samstersamster",
     "samstersamster"
   ],
   "silverMedallists": [
@@ -133,7 +134,8 @@
     "pljogging",
     "welikeshapes",
     "jr_plays_games",
-    "bc2014"
+    "bc2014",
+    "arunaromatics"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -205,7 +207,8 @@
     "thelupineone",
     "fluidfernando",
     "abme208",
-    "oni91_573"
+    "oni91_573",
+    "woollyback"
   ],
   "lobbyMedallists": []
 }
