@@ -25,7 +25,8 @@
     "thelupineone",
     "nowcutthatout",
     "zeusless",
-    "samstersamster"
+    "samstersamster",
+    "woollyback"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
