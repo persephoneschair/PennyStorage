@@ -87,7 +87,8 @@
     "colin_so",
     "nowcutthatout",
     "nowcutthatout",
-    "jr_plays_games"
+    "jr_plays_games",
+    "bc2014"
   ],
   "silverMedallists": [
     "abme208",
@@ -185,7 +186,8 @@
     "oni91_573",
     "samstersamster",
     "ardenfetz",
-    "kollokola"
+    "kollokola",
+    "cliveoflegend"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -284,7 +286,8 @@
     "thelupineone",
     "pljogging",
     "abme208",
-    "fluidfernando"
+    "fluidfernando",
+    "t1pster"
   ],
   "lobbyMedallists": []
 }
