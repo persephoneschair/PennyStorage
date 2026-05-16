@@ -62,7 +62,8 @@
     "jerryeris",
     "cliveoflegend",
     "fluidfernando",
-    "cliveoflegend"
+    "cliveoflegend",
+    "abme208"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -124,7 +125,8 @@
     "ardenfetz",
     "riffraccoon",
     "welikeshapes",
-    "oni91_573"
+    "oni91_573",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "aminthepm99",
@@ -190,7 +192,8 @@
     "flyb0y1",
     "thelupineone",
     "abme208",
-    "apeminkie"
+    "apeminkie",
+    "icetim8"
   ],
   "lobbyMedallists": [
     "abme208",
@@ -227,6 +230,7 @@
     "kollokola",
     "fluidfernando",
     "cliveoflegend",
-    "arunaromatics"
+    "arunaromatics",
+    "bc2014"
   ]
 }
