@@ -1,12 +1,15 @@
 {
   "goldMedallists": [
-    "nowcutthatout"
+    "nowcutthatout",
+    "rac267"
   ],
   "silverMedallists": [
-    "ogbungle69"
+    "ogbungle69",
+    "stimpsonsangle"
   ],
   "bronzeMedallists": [
-    "fluidfernando"
+    "fluidfernando",
+    "sophsleybob"
   ],
   "lobbyMedallists": []
 }

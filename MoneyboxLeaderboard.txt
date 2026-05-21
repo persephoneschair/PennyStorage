@@ -50,5 +50,9 @@
   {
     "playerName": "pr00gs & apeminkie",
     "playerScore": 200
+  },
+  {
+    "playerName": "thelupineone & welikeshapes",
+    "playerScore": 125
   }
 ]
