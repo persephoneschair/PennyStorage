@@ -36,7 +36,8 @@
     "nowcutthatout",
     "apeminkie",
     "fluidfernando",
-    "nowcutthatout"
+    "nowcutthatout",
+    "greenday61892"
   ],
   "silverMedallists": [
     "abme208",
@@ -97,7 +98,8 @@
     "welikeshapes",
     "nowcutthatout",
     "riffraccoon",
-    "oni91_573"
+    "oni91_573",
+    "apodonuevo"
   ],
   "bronzeMedallists": [
     "apeminkie",
@@ -164,7 +166,8 @@
     "riffraccoon",
     "samstersamster",
     "cliveoflegend",
-    "welikeshapes"
+    "welikeshapes",
+    "happyok"
   ],
   "lobbyMedallists": []
 }
