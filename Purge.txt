@@ -63,7 +63,8 @@
     "riffraccoon",
     "samstersamster",
     "natterikh",
-    "fluidfernando"
+    "fluidfernando",
+    "samstersamster"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
