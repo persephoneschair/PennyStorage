@@ -1,0 +1,12 @@
+{
+  "goldMedallists": [
+    "royal_flush"
+  ],
+  "silverMedallists": [
+    "jeeisenz"
+  ],
+  "bronzeMedallists": [
+    "theklemon"
+  ],
+  "lobbyMedallists": []
+}

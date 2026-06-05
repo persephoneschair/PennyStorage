@@ -1,0 +1,13 @@
+{
+  "goldMedallists": [
+    "fluidfernando"
+  ],
+  "silverMedallists": [
+    "oni91_573"
+  ],
+  "bronzeMedallists": [
+    "arunaromatics",
+    "bc2014"
+  ],
+  "lobbyMedallists": []
+}
