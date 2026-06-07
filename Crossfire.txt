@@ -49,7 +49,8 @@
     "bc2014",
     "abme208",
     "woollyback",
-    "apeminkie"
+    "apeminkie",
+    "kollokola"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
