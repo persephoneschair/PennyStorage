@@ -1,0 +1,6 @@
+{
+  "goldMedallists": [],
+  "silverMedallists": [],
+  "bronzeMedallists": [],
+  "lobbyMedallists": []
+}
