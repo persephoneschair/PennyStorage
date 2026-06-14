@@ -1,6 +1,12 @@
 {
-  "goldMedallists": [],
-  "silverMedallists": [],
-  "bronzeMedallists": [],
+  "goldMedallists": [
+    "jr_plays_games"
+  ],
+  "silverMedallists": [
+    "silverelectron"
+  ],
+  "bronzeMedallists": [
+    "jackwilfred"
+  ],
   "lobbyMedallists": []
 }
