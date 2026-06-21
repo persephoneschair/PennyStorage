@@ -26,7 +26,8 @@
     "nowcutthatout",
     "zeusless",
     "samstersamster",
-    "woollyback"
+    "woollyback",
+    "ardenfetz"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

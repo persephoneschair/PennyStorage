@@ -4,21 +4,24 @@
     "flyb0y1",
     "claz0r",
     "cliveoflegend",
-    "zeusless"
+    "zeusless",
+    "pr00gs"
   ],
   "silverMedallists": [
     "cliveoflegend",
     "woollyback",
     "oni91_573",
     "kollokola",
-    "apodonuevo"
+    "apodonuevo",
+    "vurtiqo"
   ],
   "bronzeMedallists": [
     "keglercoach",
     "abme208",
     "jackwilfred",
     "mattthespratt",
-    "silverelectron"
+    "silverelectron",
+    "supersonicsjm"
   ],
   "lobbyMedallists": []
 }
