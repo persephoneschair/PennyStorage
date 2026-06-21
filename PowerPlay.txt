@@ -1,7 +1,7 @@
 {
   "goldMedallists": [
     "nowcutthatout",
-    "rac267"
+    "lexiholmes"
   ],
   "silverMedallists": [
     "ogbungle69",

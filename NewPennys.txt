@@ -49,12 +49,6 @@
       "AllTimePennys": 73
     },
     {
-      "PlayerName": "rac267",
-      "AuthorCredits": 0,
-      "CurrentSeasonPennys": 1,
-      "AllTimePennys": 1
-    },
-    {
       "PlayerName": "adster1005",
       "AuthorCredits": 5,
       "CurrentSeasonPennys": 0,
