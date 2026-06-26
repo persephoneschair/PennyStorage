@@ -64,7 +64,8 @@
     "samstersamster",
     "natterikh",
     "fluidfernando",
-    "samstersamster"
+    "samstersamster",
+    "greenday61892"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
