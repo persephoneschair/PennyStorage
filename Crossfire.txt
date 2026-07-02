@@ -50,7 +50,8 @@
     "abme208",
     "woollyback",
     "apeminkie",
-    "kollokola"
+    "kollokola",
+    "lexiholmes"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
