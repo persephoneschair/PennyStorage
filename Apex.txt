@@ -5,7 +5,8 @@
     "claz0r",
     "cliveoflegend",
     "zeusless",
-    "pr00gs"
+    "pr00gs",
+    "bc2014"
   ],
   "silverMedallists": [
     "cliveoflegend",
@@ -13,7 +14,8 @@
     "oni91_573",
     "kollokola",
     "apodonuevo",
-    "vurtiqo"
+    "vurtiqo",
+    "samstersamster"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -21,7 +23,8 @@
     "jackwilfred",
     "mattthespratt",
     "silverelectron",
-    "supersonicsjm"
+    "supersonicsjm",
+    "abme208"
   ],
   "lobbyMedallists": []
 }

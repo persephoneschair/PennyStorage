@@ -1,0 +1,27 @@
+{
+  "goldMedallists": [
+    "welikeshapes",
+    "welikeshapes",
+    "thelupineone",
+    "samstersamster",
+    "thelupineone",
+    "oni91_573"
+  ],
+  "silverMedallists": [
+    "thelupineone",
+    "nowcutthatout",
+    "welikeshapes",
+    "deeemmsee",
+    "welikeshapes",
+    "nowcutthatout"
+  ],
+  "bronzeMedallists": [
+    "apodonuevo",
+    "samstersamster",
+    "nowcutthatout",
+    "samstersamster",
+    "samstersamster",
+    "welikeshapes"
+  ],
+  "lobbyMedallists": []
+}

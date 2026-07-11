@@ -1,12 +1,13 @@
 {
   "goldMedallists": [
-    "royal_flush"
+    "fluidfernando"
   ],
   "silverMedallists": [
-    "jeeisenz"
+    "oni91_573"
   ],
   "bronzeMedallists": [
-    "theklemon"
+    "arunaromatics",
+    "bc2014"
   ],
   "lobbyMedallists": []
 }
