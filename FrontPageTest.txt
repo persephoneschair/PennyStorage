@@ -1,13 +1,22 @@
 {
   "goldMedallists": [
-    "fluidfernando"
+    "fluidfernando",
+    "royal_flush"
   ],
   "silverMedallists": [
-    "oni91_573"
+    "oni91_573",
+    "vurtiqo",
+    "solomon_dudley"
   ],
   "bronzeMedallists": [
     "arunaromatics",
-    "bc2014"
+    "bc2014",
+    "darkblade_lu",
+    "kollokola",
+    "maxio68",
+    "nowcutthatout",
+    "thelupineone",
+    "cliveoflegend"
   ],
   "lobbyMedallists": []
 }
