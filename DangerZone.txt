@@ -91,6 +91,7 @@
     "thelupineone",
     "jr_plays_games",
     "welikeshapes",
+    "welikeshapes",
     "welikeshapes"
   ],
   "silverMedallists": [
@@ -171,7 +172,8 @@
     "flyb0y1",
     "welikeshapes",
     "cliveoflegend",
-    "woollyback"
+    "woollyback",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -260,7 +262,8 @@
     "welikeshapes",
     "jackwilfred",
     "samstersamster",
-    "bc2014"
+    "bc2014",
+    "arunaromatics"
   ],
   "lobbyMedallists": [
     "claz0r",
@@ -337,6 +340,7 @@
     "abme208",
     "ardenfetz",
     "loinir2",
+    "kollokola",
     "kollokola",
     "kollokola"
   ]
