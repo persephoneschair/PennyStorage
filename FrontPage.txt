@@ -2,17 +2,20 @@
   "goldMedallists": [
     "fluidfernando",
     "lexiholmes",
-    "samstersamster"
+    "samstersamster",
+    "nowcutthatout"
   ],
   "silverMedallists": [
     "oni91_573",
-    "abme208"
+    "abme208",
+    "samstersamster"
   ],
   "bronzeMedallists": [
     "arunaromatics",
     "bc2014",
     "natterikh",
-    "bc2014"
+    "bc2014",
+    "cliveoflegend"
   ],
   "lobbyMedallists": []
 }
