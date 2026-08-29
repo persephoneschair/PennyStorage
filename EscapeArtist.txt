@@ -57,7 +57,8 @@
     "oni91_573",
     "nowcutthatout",
     "cliveoflegend",
-    "samstersamster"
+    "samstersamster",
+    "thelupineone"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
