@@ -71,7 +71,8 @@
     "samstersamster",
     "samstersamster",
     "zeusless",
-    "samstersamster"
+    "samstersamster",
+    "oni91_573"
   ],
   "silverMedallists": [
     "apodonuevo",
@@ -140,7 +141,8 @@
     "arunaromatics",
     "bc2014",
     "welikeshapes",
-    "bc2014"
+    "bc2014",
+    "riffraccoon"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -215,7 +217,8 @@
     "oni91_573",
     "woollyback",
     "stimpsonsangle",
-    "thelupineone"
+    "thelupineone",
+    "bc2014"
   ],
   "lobbyMedallists": []
 }

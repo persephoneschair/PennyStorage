@@ -46,7 +46,8 @@
     "samstersamster",
     "nowcutthatout",
     "nowcutthatout",
-    "nowcutthatout"
+    "nowcutthatout",
+    "zeusless"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
