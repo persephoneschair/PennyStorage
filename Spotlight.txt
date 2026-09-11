@@ -20,6 +20,7 @@
     "1234_ideclareathumbwar_",
     "conradillac",
     "zeusless",
+    "lexiholmes",
     "lexiholmes"
   ],
   "silverMedallists": [
@@ -50,7 +51,8 @@
     "welikeshapes",
     "thelupineone",
     "bc2014",
-    "welikeshapes"
+    "welikeshapes",
+    "mattthespratt"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -85,7 +87,9 @@
     "kollokola",
     "claz0r",
     "oni91_573",
-    "abme208"
+    "abme208",
+    "fluidfernando",
+    "bc2014"
   ],
   "lobbyMedallists": []
 }
