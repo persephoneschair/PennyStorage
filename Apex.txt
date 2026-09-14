@@ -6,7 +6,8 @@
     "cliveoflegend",
     "zeusless",
     "pr00gs",
-    "bc2014"
+    "bc2014",
+    "lexiholmes"
   ],
   "silverMedallists": [
     "cliveoflegend",
@@ -15,7 +16,8 @@
     "kollokola",
     "apodonuevo",
     "vurtiqo",
-    "samstersamster"
+    "samstersamster",
+    "kollokola"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -24,7 +26,8 @@
     "mattthespratt",
     "silverelectron",
     "supersonicsjm",
-    "abme208"
+    "abme208",
+    "freeruckus"
   ],
   "lobbyMedallists": []
 }

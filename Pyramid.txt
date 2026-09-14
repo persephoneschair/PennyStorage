@@ -27,7 +27,8 @@
     "zeusless",
     "samstersamster",
     "woollyback",
-    "ardenfetz"
+    "ardenfetz",
+    "oni91_573"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
