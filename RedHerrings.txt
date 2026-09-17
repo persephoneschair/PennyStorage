@@ -90,7 +90,8 @@
     "jr_plays_games",
     "bc2014",
     "thelupineone",
-    "samstersamster"
+    "samstersamster",
+    "sophsleybob"
   ],
   "silverMedallists": [
     "abme208",
@@ -191,7 +192,8 @@
     "kollokola",
     "cliveoflegend",
     "fluidfernando",
-    "fluidfernando"
+    "fluidfernando",
+    "cliveoflegend"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -293,7 +295,8 @@
     "fluidfernando",
     "t1pster",
     "welikeshapes",
-    "cliveoflegend"
+    "cliveoflegend",
+    "bc2014"
   ],
   "lobbyMedallists": []
 }

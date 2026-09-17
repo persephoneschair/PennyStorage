@@ -50,7 +50,8 @@
     "cliveoflegend",
     "zeusless",
     "samstersamster",
-    "vurtiqo"
+    "vurtiqo",
+    "lexiholmes"
   ],
   "silverMedallists": [
     "abme208",
@@ -105,7 +106,8 @@
     "theklemon",
     "fluidfernando",
     "ardenfetz",
-    "samstersamster"
+    "samstersamster",
+    "bc2014"
   ],
   "bronzeMedallists": [
     "pr00gs",
@@ -160,7 +162,8 @@
     "samstersamster",
     "oni91_573",
     "welikeshapes",
-    "cliveoflegend"
+    "cliveoflegend",
+    "arunaromatics"
   ],
   "lobbyMedallists": [
     "jackwilfred",
@@ -218,6 +221,7 @@
     "apeminkie",
     "alexanderthehuh",
     "nowcutthatout",
-    "nowcutthatout"
+    "nowcutthatout",
+    "mattthespratt"
   ]
 }
