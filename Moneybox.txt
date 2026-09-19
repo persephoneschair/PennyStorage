@@ -11,7 +11,8 @@
     "tvp8polska",
     "the_nekkid_grandma",
     "oni91_573",
-    "mattthespratt"
+    "mattthespratt",
+    "lexiholmes"
   ],
   "silverMedallists": [
     "stimpsonsangle",
@@ -28,7 +29,8 @@
     "fluffybunesq",
     "maxio68",
     "jr_plays_games",
-    "pr00gs"
+    "pr00gs",
+    "fluidfernando"
   ],
   "bronzeMedallists": [
     "kollokola",
@@ -43,7 +45,8 @@
     "ardenfetz",
     "jr_plays_games",
     "zeusless",
-    "abme208"
+    "abme208",
+    "welikeshapes"
   ],
   "lobbyMedallists": []
 }
