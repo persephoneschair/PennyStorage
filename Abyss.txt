@@ -47,7 +47,8 @@
     "nowcutthatout",
     "nowcutthatout",
     "nowcutthatout",
-    "zeusless"
+    "zeusless",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

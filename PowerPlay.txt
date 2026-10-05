@@ -3,19 +3,22 @@
     "nowcutthatout",
     "lexiholmes",
     "zeusless",
-    "lexiholmes"
+    "lexiholmes",
+    "pr00gs"
   ],
   "silverMedallists": [
     "ogbungle69",
     "stimpsonsangle",
     "keglercoach",
-    "samstersamster"
+    "samstersamster",
+    "leejwk"
   ],
   "bronzeMedallists": [
     "fluidfernando",
     "sophsleybob",
     "samstersamster",
-    "stimpsonsangle"
+    "stimpsonsangle",
+    "welikeshapes"
   ],
   "lobbyMedallists": []
 }
