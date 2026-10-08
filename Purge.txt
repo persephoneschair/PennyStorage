@@ -66,7 +66,8 @@
     "fluidfernando",
     "samstersamster",
     "greenday61892",
-    "abme208"
+    "abme208",
+    "woollyback"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
