@@ -40,7 +40,8 @@
     "greenday61892",
     "nowcutthatout",
     "samstersamster",
-    "oni91_573"
+    "oni91_573",
+    "welikeshapes"
   ],
   "silverMedallists": [
     "abme208",
@@ -105,6 +106,7 @@
     "apodonuevo",
     "samstersamster",
     "welikeshapes",
+    "thelupineone",
     "thelupineone"
   ],
   "bronzeMedallists": [
@@ -177,7 +179,9 @@
     "thelupineone",
     "kollokola",
     "nowcutthatout",
-    "samstersamster"
+    "samstersamster",
+    "sdrawkcassab",
+    "riffraccoon"
   ],
   "lobbyMedallists": []
 }

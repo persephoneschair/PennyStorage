@@ -1,16 +1,20 @@
 {
   "goldMedallists": [
     "jr_plays_games",
-    "mattthespratt"
+    "mattthespratt",
+    "jr_plays_games"
   ],
   "silverMedallists": [
     "silverelectron",
-    "ardenfetz"
+    "ardenfetz",
+    "silverelectron"
   ],
   "bronzeMedallists": [
     "jackwilfred",
     "colin_so",
-    "welikeshapes"
+    "welikeshapes",
+    "paulister",
+    "fluidfernando"
   ],
   "lobbyMedallists": []
 }
