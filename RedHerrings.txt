@@ -91,7 +91,8 @@
     "bc2014",
     "thelupineone",
     "samstersamster",
-    "sophsleybob"
+    "sophsleybob",
+    "apeminkie"
   ],
   "silverMedallists": [
     "abme208",
@@ -193,7 +194,8 @@
     "cliveoflegend",
     "fluidfernando",
     "fluidfernando",
-    "cliveoflegend"
+    "cliveoflegend",
+    "fluidfernando"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -296,7 +298,8 @@
     "t1pster",
     "welikeshapes",
     "cliveoflegend",
-    "bc2014"
+    "bc2014",
+    "apodonuevo"
   ],
   "lobbyMedallists": []
 }
