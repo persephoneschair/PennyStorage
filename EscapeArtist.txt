@@ -59,7 +59,8 @@
     "cliveoflegend",
     "samstersamster",
     "thelupineone",
-    "bc2014"
+    "bc2014",
+    "nowcutthatout"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

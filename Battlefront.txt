@@ -46,7 +46,8 @@
     "arunaromatics",
     "fluidfernando",
     "welikeshapes",
-    "oni91_573"
+    "oni91_573",
+    "cliveoflegend"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

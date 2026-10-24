@@ -2,19 +2,24 @@
   "goldMedallists": [
     "jr_plays_games",
     "mattthespratt",
-    "jr_plays_games"
+    "jr_plays_games",
+    "cliveoflegend",
+    "silverelectron",
+    "saivia_plath"
   ],
   "silverMedallists": [
     "silverelectron",
     "ardenfetz",
-    "silverelectron"
+    "silverelectron",
+    "abme208"
   ],
   "bronzeMedallists": [
     "jackwilfred",
     "colin_so",
     "welikeshapes",
     "paulister",
-    "fluidfernando"
+    "fluidfernando",
+    "oni91_573"
   ],
   "lobbyMedallists": []
 }
