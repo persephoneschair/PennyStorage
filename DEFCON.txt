@@ -12,7 +12,8 @@
     "welikeshapes",
     "oni91_573",
     "apeminkie",
-    "lexiholmes"
+    "lexiholmes",
+    "thelupineone"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
