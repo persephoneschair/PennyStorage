@@ -21,7 +21,9 @@
     "conradillac",
     "zeusless",
     "lexiholmes",
-    "lexiholmes"
+    "lexiholmes",
+    "zeusless",
+    "thelupineone"
   ],
   "silverMedallists": [
     "nowcutthatout",
@@ -52,7 +54,11 @@
     "thelupineone",
     "bc2014",
     "welikeshapes",
-    "mattthespratt"
+    "mattthespratt",
+    "cliveoflegend",
+    "oni91_573",
+    "bc2014",
+    "claz0r"
   ],
   "bronzeMedallists": [
     "keglercoach",
@@ -89,7 +95,11 @@
     "oni91_573",
     "abme208",
     "fluidfernando",
-    "bc2014"
+    "bc2014",
+    "jr_plays_games",
+    "vurtiqo",
+    "saivia_plath",
+    "welikeshapes"
   ],
   "lobbyMedallists": []
 }

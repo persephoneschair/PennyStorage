@@ -53,7 +53,8 @@
     "kollokola",
     "lexiholmes",
     "sdrawkcassab",
-    "fluffybunesq"
+    "fluffybunesq",
+    "freeruckus"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

@@ -3,11 +3,13 @@
     "fluidfernando",
     "lexiholmes",
     "samstersamster",
-    "nowcutthatout"
+    "nowcutthatout",
+    "saivia_plath"
   ],
   "silverMedallists": [
     "oni91_573",
     "abme208",
+    "samstersamster",
     "samstersamster"
   ],
   "bronzeMedallists": [
@@ -15,7 +17,8 @@
     "bc2014",
     "natterikh",
     "bc2014",
-    "cliveoflegend"
+    "cliveoflegend",
+    "jr_plays_games"
   ],
   "lobbyMedallists": []
 }
