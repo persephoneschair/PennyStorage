@@ -4,21 +4,24 @@
     "lexiholmes",
     "zeusless",
     "lexiholmes",
-    "pr00gs"
+    "pr00gs",
+    "bc2014"
   ],
   "silverMedallists": [
     "ogbungle69",
     "stimpsonsangle",
     "keglercoach",
     "samstersamster",
-    "leejwk"
+    "leejwk",
+    "thelupineone"
   ],
   "bronzeMedallists": [
     "fluidfernando",
     "sophsleybob",
     "samstersamster",
     "stimpsonsangle",
-    "welikeshapes"
+    "welikeshapes",
+    "kollokola"
   ],
   "lobbyMedallists": []
 }
