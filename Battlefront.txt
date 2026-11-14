@@ -47,7 +47,8 @@
     "fluidfernando",
     "welikeshapes",
     "oni91_573",
-    "cliveoflegend"
+    "cliveoflegend",
+    "alexanderthehuh"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],

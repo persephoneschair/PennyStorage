@@ -60,7 +60,8 @@
     "samstersamster",
     "thelupineone",
     "bc2014",
-    "nowcutthatout"
+    "nowcutthatout",
+    "welikeshapes"
   ],
   "silverMedallists": [],
   "bronzeMedallists": [],
