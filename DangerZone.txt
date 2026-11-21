@@ -94,7 +94,8 @@
     "welikeshapes",
     "welikeshapes",
     "bc2014",
-    "bc2014"
+    "bc2014",
+    "woollyback"
   ],
   "silverMedallists": [
     "allylawlawlaw",
@@ -177,7 +178,9 @@
     "woollyback",
     "thelupineone",
     "jackwilfred",
-    "welikeshapes"
+    "welikeshapes",
+    "abme208",
+    "pyropygmy"
   ],
   "bronzeMedallists": [
     "abme208",
@@ -269,7 +272,8 @@
     "bc2014",
     "arunaromatics",
     "abme208",
-    "cliveoflegend"
+    "cliveoflegend",
+    "pr00gs"
   ],
   "lobbyMedallists": [
     "claz0r",
@@ -350,6 +354,7 @@
     "kollokola",
     "kollokola",
     "kollokola",
-    "thelupineone"
+    "thelupineone",
+    "saivia_plath"
   ]
 }

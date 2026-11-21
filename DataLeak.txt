@@ -61,6 +61,7 @@
     "nowcutthatout",
     "nowcutthatout",
     "lexiholmes",
+    "nowcutthatout",
     "nowcutthatout"
   ],
   "silverMedallists": [
@@ -127,7 +128,8 @@
     "samstersamster",
     "nowcutthatout",
     "thelupineone",
-    "zeusless"
+    "zeusless",
+    "welikeshapes"
   ],
   "bronzeMedallists": [
     "cliveoflegend",
@@ -195,7 +197,8 @@
     "thelupineone",
     "welikeshapes",
     "samstersamster",
-    "saivia_plath"
+    "saivia_plath",
+    "zeusless"
   ],
   "lobbyMedallists": []
 }
