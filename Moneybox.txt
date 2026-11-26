@@ -12,7 +12,8 @@
     "the_nekkid_grandma",
     "oni91_573",
     "mattthespratt",
-    "lexiholmes"
+    "lexiholmes",
+    "thelupineone"
   ],
   "silverMedallists": [
     "stimpsonsangle",
@@ -30,7 +31,8 @@
     "maxio68",
     "jr_plays_games",
     "pr00gs",
-    "fluidfernando"
+    "fluidfernando",
+    "woollyback"
   ],
   "bronzeMedallists": [
     "kollokola",
@@ -46,6 +48,7 @@
     "jr_plays_games",
     "zeusless",
     "abme208",
+    "welikeshapes",
     "welikeshapes"
   ],
   "lobbyMedallists": []

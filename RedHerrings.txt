@@ -93,7 +93,8 @@
     "samstersamster",
     "sophsleybob",
     "apeminkie",
-    "oni91_573"
+    "oni91_573",
+    "cliveoflegend"
   ],
   "silverMedallists": [
     "abme208",
@@ -197,6 +198,7 @@
     "fluidfernando",
     "cliveoflegend",
     "fluidfernando",
+    "bc2014",
     "bc2014"
   ],
   "bronzeMedallists": [
@@ -302,7 +304,8 @@
     "cliveoflegend",
     "bc2014",
     "apodonuevo",
-    "cliveoflegend"
+    "cliveoflegend",
+    "mattthespratt"
   ],
   "lobbyMedallists": []
 }
